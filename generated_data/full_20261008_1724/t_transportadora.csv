@@ -1,0 +1,10 @@
+﻿id_transpotadora,razao_social,cnpj,telefone,email,tipo_trasnporte,prazo_medio_dias,ativo
+1,Transportadora Sintetica 01,TESTE-T-0000000001,(21) 6000-0001,transp01@exemplo.invalid,AEREO,2,S
+2,Transportadora Sintetica 02,TESTE-T-0000000002,(21) 6000-0002,transp02@exemplo.invalid,RODOVIARIO ,3,S
+3,Transportadora Sintetica 03,TESTE-T-0000000003,(21) 6000-0003,transp03@exemplo.invalid,AEREO,4,S
+4,Transportadora Sintetica 04,TESTE-T-0000000004,(21) 6000-0004,transp04@exemplo.invalid,RODOVIARIO ,5,S
+5,Transportadora Sintetica 05,TESTE-T-0000000005,(21) 6000-0005,transp05@exemplo.invalid,RODOVIARIO ,6,S
+6,Transportadora Sintetica 06,TESTE-T-0000000006,(21) 6000-0006,transp06@exemplo.invalid,AEREO,7,S
+7,Transportadora Sintetica 07,TESTE-T-0000000007,(21) 6000-0007,transp07@exemplo.invalid,RODOVIARIO ,8,S
+8,Transportadora Sintetica 08,TESTE-T-0000000008,(21) 6000-0008,transp08@exemplo.invalid,MARITIMO,9,S
+9,Transportadora Sintetica 09,TESTE-T-0000000009,(21) 6000-0009,transp09@exemplo.invalid,RODOVIARIO ,10,S

@@ -1,0 +1,5 @@
+﻿id_armazem,nome_armazem,endereÇo,cidade,estado,capacidade,ativo
+2,Centro Logistico 2,Av. Operacional 2,Sao Paulo,SP,5000,S
+3,Centro Logistico 3,Av. Operacional 3,Curitiba,PR,5750,S
+4,Centro Logistico 4,Av. Operacional 4,Recife,PE,6500,S
+5,Centro Logistico 5,Av. Operacional 5,Goiania,GO,7250,S

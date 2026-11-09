@@ -1,0 +1,1001 @@
+﻿id_movimentaÇÃo,tipo_movimentação,quantidade,data_movimentação,motivo,documento_referencia,t_estoque_id_estoque
+1,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:1,1
+2,SAIDA,1,2025-02-21,Baixa por avaria,AVARIA:1,1
+3,SAIDA,1,2025-02-22,Consumo operacional sintetico,OPERACAO:1:1,1
+4,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:2,2
+5,SAIDA,1,2025-02-24,Baixa por avaria,AVARIA:2,2
+6,SAIDA,1,2025-02-25,Consumo operacional sintetico,OPERACAO:2:1,2
+7,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:3,3
+8,SAIDA,1,2025-02-27,Baixa por avaria,AVARIA:3,3
+9,SAIDA,1,2025-02-28,Consumo operacional sintetico,OPERACAO:3:1,3
+10,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:4,4
+11,SAIDA,1,2025-03-02,Baixa por avaria,AVARIA:4,4
+12,SAIDA,1,2025-03-03,Consumo operacional sintetico,OPERACAO:4:1,4
+13,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:5,5
+14,SAIDA,1,2025-03-05,Baixa por avaria,AVARIA:5,5
+15,SAIDA,1,2025-03-06,Consumo operacional sintetico,OPERACAO:5:1,5
+16,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:6,6
+17,SAIDA,1,2025-03-08,Baixa por avaria,AVARIA:6,6
+18,SAIDA,1,2025-03-09,Consumo operacional sintetico,OPERACAO:6:1,6
+19,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:7,7
+20,SAIDA,1,2025-03-11,Baixa por avaria,AVARIA:7,7
+21,SAIDA,1,2025-03-12,Consumo operacional sintetico,OPERACAO:7:1,7
+22,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:8,8
+23,SAIDA,1,2025-03-14,Baixa por avaria,AVARIA:8,8
+24,SAIDA,1,2025-03-15,Consumo operacional sintetico,OPERACAO:8:1,8
+25,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:9,9
+26,SAIDA,1,2025-03-17,Baixa por avaria,AVARIA:9,9
+27,SAIDA,1,2025-03-18,Consumo operacional sintetico,OPERACAO:9:1,9
+28,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:10,10
+29,SAIDA,1,2025-03-20,Baixa por avaria,AVARIA:10,10
+30,SAIDA,1,2025-03-21,Consumo operacional sintetico,OPERACAO:10:1,10
+31,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:11,11
+32,SAIDA,1,2025-03-23,Baixa por avaria,AVARIA:11,11
+33,SAIDA,1,2025-03-24,Consumo operacional sintetico,OPERACAO:11:1,11
+34,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:12,12
+35,SAIDA,1,2025-03-26,Baixa por avaria,AVARIA:12,12
+36,SAIDA,1,2025-03-27,Consumo operacional sintetico,OPERACAO:12:1,12
+37,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:13,13
+38,SAIDA,1,2025-03-29,Baixa por avaria,AVARIA:13,13
+39,SAIDA,1,2025-03-30,Consumo operacional sintetico,OPERACAO:13:1,13
+40,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:14,14
+41,SAIDA,1,2025-04-01,Baixa por avaria,AVARIA:14,14
+42,SAIDA,1,2025-04-02,Consumo operacional sintetico,OPERACAO:14:1,14
+43,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:15,15
+44,SAIDA,1,2025-04-04,Baixa por avaria,AVARIA:15,15
+45,SAIDA,1,2025-04-05,Consumo operacional sintetico,OPERACAO:15:1,15
+46,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:16,16
+47,SAIDA,1,2025-04-07,Baixa por avaria,AVARIA:16,16
+48,SAIDA,1,2025-04-08,Consumo operacional sintetico,OPERACAO:16:1,16
+49,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:17,17
+50,SAIDA,1,2025-04-10,Baixa por avaria,AVARIA:17,17
+51,SAIDA,1,2025-04-11,Consumo operacional sintetico,OPERACAO:17:1,17
+52,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:18,18
+53,SAIDA,1,2025-04-13,Baixa por avaria,AVARIA:18,18
+54,SAIDA,1,2025-04-14,Consumo operacional sintetico,OPERACAO:18:1,18
+55,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:19,19
+56,SAIDA,1,2025-04-16,Baixa por avaria,AVARIA:19,19
+57,SAIDA,1,2025-04-17,Consumo operacional sintetico,OPERACAO:19:1,19
+58,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:20,20
+59,SAIDA,1,2025-04-19,Baixa por avaria,AVARIA:20,20
+60,SAIDA,1,2025-04-20,Consumo operacional sintetico,OPERACAO:20:1,20
+61,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:21,21
+62,SAIDA,1,2025-04-22,Baixa por avaria,AVARIA:21,21
+63,SAIDA,1,2025-04-23,Consumo operacional sintetico,OPERACAO:21:1,21
+64,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:22,22
+65,SAIDA,1,2025-04-25,Baixa por avaria,AVARIA:22,22
+66,SAIDA,1,2025-04-26,Consumo operacional sintetico,OPERACAO:22:1,22
+67,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:23,23
+68,SAIDA,1,2025-04-28,Baixa por avaria,AVARIA:23,23
+69,SAIDA,1,2025-04-29,Consumo operacional sintetico,OPERACAO:23:1,23
+70,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:24,24
+71,SAIDA,1,2025-05-01,Baixa por avaria,AVARIA:24,24
+72,SAIDA,1,2025-05-02,Consumo operacional sintetico,OPERACAO:24:1,24
+73,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:25,25
+74,SAIDA,1,2025-05-04,Baixa por avaria,AVARIA:25,25
+75,SAIDA,1,2025-05-05,Consumo operacional sintetico,OPERACAO:25:1,25
+76,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:26,26
+77,SAIDA,1,2025-05-07,Baixa por avaria,AVARIA:26,26
+78,SAIDA,1,2025-05-08,Consumo operacional sintetico,OPERACAO:26:1,26
+79,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:27,27
+80,SAIDA,1,2025-05-10,Baixa por avaria,AVARIA:27,27
+81,SAIDA,1,2025-05-11,Consumo operacional sintetico,OPERACAO:27:1,27
+82,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:28,28
+83,SAIDA,1,2025-05-13,Baixa por avaria,AVARIA:28,28
+84,SAIDA,1,2025-05-14,Consumo operacional sintetico,OPERACAO:28:1,28
+85,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:29,29
+86,SAIDA,1,2025-05-16,Baixa por avaria,AVARIA:29,29
+87,SAIDA,1,2025-05-17,Consumo operacional sintetico,OPERACAO:29:1,29
+88,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:30,30
+89,SAIDA,1,2025-05-19,Baixa por avaria,AVARIA:30,30
+90,SAIDA,1,2025-05-20,Consumo operacional sintetico,OPERACAO:30:1,30
+91,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:31,31
+92,SAIDA,1,2025-05-22,Baixa por avaria,AVARIA:31,31
+93,SAIDA,1,2025-05-23,Consumo operacional sintetico,OPERACAO:31:1,31
+94,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:32,32
+95,SAIDA,1,2025-05-25,Baixa por avaria,AVARIA:32,32
+96,SAIDA,1,2025-05-26,Consumo operacional sintetico,OPERACAO:32:1,32
+97,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:33,33
+98,SAIDA,1,2025-05-28,Baixa por avaria,AVARIA:33,33
+99,SAIDA,1,2025-05-29,Consumo operacional sintetico,OPERACAO:33:1,33
+100,ENTRADA,75,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:34,34
+101,SAIDA,1,2025-05-31,Baixa por avaria,AVARIA:34,34
+102,SAIDA,1,2025-06-01,Consumo operacional sintetico,OPERACAO:34:1,34
+103,ENTRADA,76,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:35,35
+104,SAIDA,1,2025-06-03,Baixa por avaria,AVARIA:35,35
+105,SAIDA,1,2025-06-04,Consumo operacional sintetico,OPERACAO:35:1,35
+106,ENTRADA,77,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:36,36
+107,SAIDA,1,2025-06-06,Baixa por avaria,AVARIA:36,36
+108,SAIDA,1,2025-06-07,Consumo operacional sintetico,OPERACAO:36:1,36
+109,ENTRADA,78,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:37,37
+110,SAIDA,1,2025-06-09,Baixa por avaria,AVARIA:37,37
+111,SAIDA,1,2025-06-10,Consumo operacional sintetico,OPERACAO:37:1,37
+112,ENTRADA,79,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:38,38
+113,SAIDA,1,2025-06-12,Baixa por avaria,AVARIA:38,38
+114,SAIDA,1,2025-06-13,Consumo operacional sintetico,OPERACAO:38:1,38
+115,ENTRADA,80,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:39,39
+116,SAIDA,1,2025-06-15,Baixa por avaria,AVARIA:39,39
+117,SAIDA,1,2025-06-16,Consumo operacional sintetico,OPERACAO:39:1,39
+118,ENTRADA,81,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:40,40
+119,SAIDA,1,2025-06-18,Baixa por avaria,AVARIA:40,40
+120,SAIDA,1,2025-06-19,Consumo operacional sintetico,OPERACAO:40:1,40
+121,ENTRADA,82,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:41,41
+122,SAIDA,1,2025-06-21,Consumo operacional sintetico,OPERACAO:41:0,41
+123,SAIDA,1,2025-06-22,Consumo operacional sintetico,OPERACAO:41:1,41
+124,ENTRADA,83,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:42,42
+125,SAIDA,1,2025-06-24,Consumo operacional sintetico,OPERACAO:42:0,42
+126,SAIDA,1,2025-06-25,Consumo operacional sintetico,OPERACAO:42:1,42
+127,ENTRADA,84,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:43,43
+128,SAIDA,1,2025-06-27,Consumo operacional sintetico,OPERACAO:43:0,43
+129,SAIDA,1,2025-06-28,Consumo operacional sintetico,OPERACAO:43:1,43
+130,ENTRADA,85,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:44,44
+131,SAIDA,1,2025-06-30,Consumo operacional sintetico,OPERACAO:44:0,44
+132,SAIDA,1,2025-07-01,Consumo operacional sintetico,OPERACAO:44:1,44
+133,ENTRADA,86,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:45,45
+134,SAIDA,1,2025-07-03,Consumo operacional sintetico,OPERACAO:45:0,45
+135,SAIDA,1,2025-07-04,Consumo operacional sintetico,OPERACAO:45:1,45
+136,ENTRADA,87,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:46,46
+137,SAIDA,1,2025-07-06,Consumo operacional sintetico,OPERACAO:46:0,46
+138,SAIDA,1,2025-07-07,Consumo operacional sintetico,OPERACAO:46:1,46
+139,ENTRADA,88,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:47,47
+140,SAIDA,1,2025-07-09,Consumo operacional sintetico,OPERACAO:47:0,47
+141,SAIDA,1,2025-07-10,Consumo operacional sintetico,OPERACAO:47:1,47
+142,ENTRADA,89,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:48,48
+143,SAIDA,1,2025-07-12,Consumo operacional sintetico,OPERACAO:48:0,48
+144,SAIDA,1,2025-07-13,Consumo operacional sintetico,OPERACAO:48:1,48
+145,ENTRADA,90,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:49,49
+146,SAIDA,1,2025-07-15,Consumo operacional sintetico,OPERACAO:49:0,49
+147,SAIDA,1,2025-07-16,Consumo operacional sintetico,OPERACAO:49:1,49
+148,ENTRADA,91,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:50,50
+149,SAIDA,1,2025-07-18,Consumo operacional sintetico,OPERACAO:50:0,50
+150,SAIDA,1,2025-07-19,Consumo operacional sintetico,OPERACAO:50:1,50
+151,ENTRADA,92,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:51,51
+152,SAIDA,1,2025-07-21,Consumo operacional sintetico,OPERACAO:51:0,51
+153,SAIDA,1,2025-07-22,Consumo operacional sintetico,OPERACAO:51:1,51
+154,ENTRADA,93,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:52,52
+155,SAIDA,1,2025-07-24,Consumo operacional sintetico,OPERACAO:52:0,52
+156,SAIDA,1,2025-07-25,Consumo operacional sintetico,OPERACAO:52:1,52
+157,ENTRADA,94,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:53,53
+158,SAIDA,1,2025-07-27,Consumo operacional sintetico,OPERACAO:53:0,53
+159,SAIDA,1,2025-07-28,Consumo operacional sintetico,OPERACAO:53:1,53
+160,ENTRADA,95,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:54,54
+161,SAIDA,1,2025-07-30,Consumo operacional sintetico,OPERACAO:54:0,54
+162,SAIDA,1,2025-07-31,Consumo operacional sintetico,OPERACAO:54:1,54
+163,ENTRADA,96,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:55,55
+164,SAIDA,1,2025-08-02,Consumo operacional sintetico,OPERACAO:55:0,55
+165,SAIDA,1,2025-08-03,Consumo operacional sintetico,OPERACAO:55:1,55
+166,ENTRADA,97,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:56,56
+167,SAIDA,1,2025-08-05,Consumo operacional sintetico,OPERACAO:56:0,56
+168,SAIDA,1,2025-08-06,Consumo operacional sintetico,OPERACAO:56:1,56
+169,ENTRADA,98,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:57,57
+170,SAIDA,1,2025-08-08,Consumo operacional sintetico,OPERACAO:57:0,57
+171,SAIDA,1,2025-08-09,Consumo operacional sintetico,OPERACAO:57:1,57
+172,ENTRADA,99,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:58,58
+173,SAIDA,1,2025-08-11,Consumo operacional sintetico,OPERACAO:58:0,58
+174,SAIDA,1,2025-08-12,Consumo operacional sintetico,OPERACAO:58:1,58
+175,ENTRADA,100,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:59,59
+176,SAIDA,1,2025-08-14,Consumo operacional sintetico,OPERACAO:59:0,59
+177,SAIDA,1,2025-08-15,Consumo operacional sintetico,OPERACAO:59:1,59
+178,ENTRADA,101,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:60,60
+179,SAIDA,1,2025-08-17,Consumo operacional sintetico,OPERACAO:60:0,60
+180,SAIDA,1,2025-08-18,Consumo operacional sintetico,OPERACAO:60:1,60
+181,ENTRADA,102,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:61,61
+182,SAIDA,1,2025-08-20,Consumo operacional sintetico,OPERACAO:61:0,61
+183,SAIDA,1,2025-08-21,Consumo operacional sintetico,OPERACAO:61:1,61
+184,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:62,62
+185,SAIDA,1,2025-08-23,Consumo operacional sintetico,OPERACAO:62:0,62
+186,SAIDA,1,2025-08-24,Consumo operacional sintetico,OPERACAO:62:1,62
+187,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:63,63
+188,SAIDA,1,2025-08-26,Consumo operacional sintetico,OPERACAO:63:0,63
+189,SAIDA,1,2025-08-27,Consumo operacional sintetico,OPERACAO:63:1,63
+190,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:64,64
+191,SAIDA,1,2025-08-29,Consumo operacional sintetico,OPERACAO:64:0,64
+192,SAIDA,1,2025-08-30,Consumo operacional sintetico,OPERACAO:64:1,64
+193,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:65,65
+194,SAIDA,1,2025-09-01,Consumo operacional sintetico,OPERACAO:65:0,65
+195,SAIDA,1,2025-09-02,Consumo operacional sintetico,OPERACAO:65:1,65
+196,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:66,66
+197,SAIDA,1,2025-09-04,Consumo operacional sintetico,OPERACAO:66:0,66
+198,SAIDA,1,2025-09-05,Consumo operacional sintetico,OPERACAO:66:1,66
+199,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:67,67
+200,SAIDA,1,2025-09-07,Consumo operacional sintetico,OPERACAO:67:0,67
+201,SAIDA,1,2025-09-08,Consumo operacional sintetico,OPERACAO:67:1,67
+202,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:68,68
+203,SAIDA,1,2025-09-10,Consumo operacional sintetico,OPERACAO:68:0,68
+204,SAIDA,1,2025-09-11,Consumo operacional sintetico,OPERACAO:68:1,68
+205,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:69,69
+206,SAIDA,1,2025-09-13,Consumo operacional sintetico,OPERACAO:69:0,69
+207,SAIDA,1,2025-09-14,Consumo operacional sintetico,OPERACAO:69:1,69
+208,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:70,70
+209,SAIDA,1,2025-09-16,Consumo operacional sintetico,OPERACAO:70:0,70
+210,SAIDA,1,2025-09-17,Consumo operacional sintetico,OPERACAO:70:1,70
+211,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:71,71
+212,SAIDA,1,2025-09-19,Consumo operacional sintetico,OPERACAO:71:0,71
+213,SAIDA,1,2025-09-20,Consumo operacional sintetico,OPERACAO:71:1,71
+214,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:72,72
+215,SAIDA,1,2025-09-22,Consumo operacional sintetico,OPERACAO:72:0,72
+216,SAIDA,1,2025-09-23,Consumo operacional sintetico,OPERACAO:72:1,72
+217,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:73,73
+218,SAIDA,1,2025-09-25,Consumo operacional sintetico,OPERACAO:73:0,73
+219,SAIDA,1,2025-09-26,Consumo operacional sintetico,OPERACAO:73:1,73
+220,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:74,74
+221,SAIDA,1,2025-09-28,Consumo operacional sintetico,OPERACAO:74:0,74
+222,SAIDA,1,2025-09-29,Consumo operacional sintetico,OPERACAO:74:1,74
+223,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:75,75
+224,SAIDA,1,2025-10-01,Consumo operacional sintetico,OPERACAO:75:0,75
+225,SAIDA,1,2025-10-02,Consumo operacional sintetico,OPERACAO:75:1,75
+226,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:76,76
+227,SAIDA,1,2025-10-04,Consumo operacional sintetico,OPERACAO:76:0,76
+228,SAIDA,1,2025-10-05,Consumo operacional sintetico,OPERACAO:76:1,76
+229,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:77,77
+230,SAIDA,1,2025-10-07,Consumo operacional sintetico,OPERACAO:77:0,77
+231,SAIDA,1,2025-10-08,Consumo operacional sintetico,OPERACAO:77:1,77
+232,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:78,78
+233,SAIDA,1,2025-10-10,Consumo operacional sintetico,OPERACAO:78:0,78
+234,SAIDA,1,2025-10-11,Consumo operacional sintetico,OPERACAO:78:1,78
+235,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:79,79
+236,SAIDA,1,2025-10-13,Consumo operacional sintetico,OPERACAO:79:0,79
+237,SAIDA,1,2025-10-14,Consumo operacional sintetico,OPERACAO:79:1,79
+238,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:80,80
+239,SAIDA,1,2025-10-16,Consumo operacional sintetico,OPERACAO:80:0,80
+240,SAIDA,1,2025-10-17,Consumo operacional sintetico,OPERACAO:80:1,80
+241,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:81,81
+242,SAIDA,1,2025-10-19,Consumo operacional sintetico,OPERACAO:81:0,81
+243,SAIDA,1,2025-10-20,Consumo operacional sintetico,OPERACAO:81:1,81
+244,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:82,82
+245,SAIDA,1,2025-10-22,Consumo operacional sintetico,OPERACAO:82:0,82
+246,SAIDA,1,2025-10-23,Consumo operacional sintetico,OPERACAO:82:1,82
+247,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:83,83
+248,SAIDA,1,2025-10-25,Consumo operacional sintetico,OPERACAO:83:0,83
+249,SAIDA,1,2025-10-26,Consumo operacional sintetico,OPERACAO:83:1,83
+250,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:84,84
+251,SAIDA,1,2025-10-28,Consumo operacional sintetico,OPERACAO:84:0,84
+252,SAIDA,1,2025-10-29,Consumo operacional sintetico,OPERACAO:84:1,84
+253,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:85,85
+254,SAIDA,1,2025-10-31,Consumo operacional sintetico,OPERACAO:85:0,85
+255,SAIDA,1,2025-11-01,Consumo operacional sintetico,OPERACAO:85:1,85
+256,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:86,86
+257,SAIDA,1,2025-11-03,Consumo operacional sintetico,OPERACAO:86:0,86
+258,SAIDA,1,2025-11-04,Consumo operacional sintetico,OPERACAO:86:1,86
+259,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:87,87
+260,SAIDA,1,2025-11-06,Consumo operacional sintetico,OPERACAO:87:0,87
+261,SAIDA,1,2025-11-07,Consumo operacional sintetico,OPERACAO:87:1,87
+262,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:88,88
+263,SAIDA,1,2025-11-09,Consumo operacional sintetico,OPERACAO:88:0,88
+264,SAIDA,1,2025-11-10,Consumo operacional sintetico,OPERACAO:88:1,88
+265,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:89,89
+266,SAIDA,1,2025-11-12,Consumo operacional sintetico,OPERACAO:89:0,89
+267,SAIDA,1,2025-11-13,Consumo operacional sintetico,OPERACAO:89:1,89
+268,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:90,90
+269,SAIDA,1,2025-11-15,Consumo operacional sintetico,OPERACAO:90:0,90
+270,SAIDA,1,2025-11-16,Consumo operacional sintetico,OPERACAO:90:1,90
+271,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:91,91
+272,SAIDA,1,2025-11-18,Consumo operacional sintetico,OPERACAO:91:0,91
+273,SAIDA,1,2025-11-19,Consumo operacional sintetico,OPERACAO:91:1,91
+274,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:92,92
+275,SAIDA,1,2025-11-21,Consumo operacional sintetico,OPERACAO:92:0,92
+276,SAIDA,1,2025-11-22,Consumo operacional sintetico,OPERACAO:92:1,92
+277,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:93,93
+278,SAIDA,1,2025-11-24,Consumo operacional sintetico,OPERACAO:93:0,93
+279,SAIDA,1,2025-11-25,Consumo operacional sintetico,OPERACAO:93:1,93
+280,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:94,94
+281,SAIDA,1,2025-11-27,Consumo operacional sintetico,OPERACAO:94:0,94
+282,SAIDA,1,2025-11-28,Consumo operacional sintetico,OPERACAO:94:1,94
+283,ENTRADA,75,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:95,95
+284,SAIDA,1,2025-11-30,Consumo operacional sintetico,OPERACAO:95:0,95
+285,SAIDA,1,2025-12-01,Consumo operacional sintetico,OPERACAO:95:1,95
+286,ENTRADA,76,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:96,96
+287,SAIDA,1,2025-12-03,Consumo operacional sintetico,OPERACAO:96:0,96
+288,SAIDA,1,2025-12-04,Consumo operacional sintetico,OPERACAO:96:1,96
+289,ENTRADA,77,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:97,97
+290,SAIDA,1,2025-12-06,Consumo operacional sintetico,OPERACAO:97:0,97
+291,SAIDA,1,2025-12-07,Consumo operacional sintetico,OPERACAO:97:1,97
+292,ENTRADA,78,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:98,98
+293,SAIDA,1,2025-12-09,Consumo operacional sintetico,OPERACAO:98:0,98
+294,SAIDA,1,2025-12-10,Consumo operacional sintetico,OPERACAO:98:1,98
+295,ENTRADA,79,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:99,99
+296,SAIDA,1,2025-12-12,Consumo operacional sintetico,OPERACAO:99:0,99
+297,SAIDA,1,2025-12-13,Consumo operacional sintetico,OPERACAO:99:1,99
+298,ENTRADA,80,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:100,100
+299,SAIDA,1,2025-12-15,Consumo operacional sintetico,OPERACAO:100:0,100
+300,SAIDA,1,2025-12-16,Consumo operacional sintetico,OPERACAO:100:1,100
+301,ENTRADA,81,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:101,101
+302,SAIDA,1,2025-12-18,Consumo operacional sintetico,OPERACAO:101:0,101
+303,SAIDA,1,2025-12-19,Consumo operacional sintetico,OPERACAO:101:1,101
+304,ENTRADA,82,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:102,102
+305,SAIDA,1,2025-12-21,Consumo operacional sintetico,OPERACAO:102:0,102
+306,SAIDA,1,2025-12-22,Consumo operacional sintetico,OPERACAO:102:1,102
+307,ENTRADA,83,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:103,103
+308,SAIDA,1,2025-12-24,Consumo operacional sintetico,OPERACAO:103:0,103
+309,SAIDA,1,2025-12-25,Consumo operacional sintetico,OPERACAO:103:1,103
+310,ENTRADA,84,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:104,104
+311,SAIDA,1,2025-12-27,Consumo operacional sintetico,OPERACAO:104:0,104
+312,SAIDA,1,2025-12-28,Consumo operacional sintetico,OPERACAO:104:1,104
+313,ENTRADA,85,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:105,105
+314,SAIDA,1,2025-12-30,Consumo operacional sintetico,OPERACAO:105:0,105
+315,SAIDA,1,2025-12-31,Consumo operacional sintetico,OPERACAO:105:1,105
+316,ENTRADA,86,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:106,106
+317,SAIDA,1,2026-01-02,Consumo operacional sintetico,OPERACAO:106:0,106
+318,SAIDA,1,2026-01-03,Consumo operacional sintetico,OPERACAO:106:1,106
+319,ENTRADA,87,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:107,107
+320,SAIDA,1,2026-01-05,Consumo operacional sintetico,OPERACAO:107:0,107
+321,SAIDA,1,2026-01-06,Consumo operacional sintetico,OPERACAO:107:1,107
+322,ENTRADA,88,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:108,108
+323,SAIDA,1,2026-01-08,Consumo operacional sintetico,OPERACAO:108:0,108
+324,SAIDA,1,2026-01-09,Consumo operacional sintetico,OPERACAO:108:1,108
+325,ENTRADA,89,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:109,109
+326,SAIDA,1,2026-01-11,Consumo operacional sintetico,OPERACAO:109:0,109
+327,SAIDA,1,2026-01-12,Consumo operacional sintetico,OPERACAO:109:1,109
+328,ENTRADA,90,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:110,110
+329,SAIDA,1,2026-01-14,Consumo operacional sintetico,OPERACAO:110:0,110
+330,SAIDA,1,2026-01-15,Consumo operacional sintetico,OPERACAO:110:1,110
+331,ENTRADA,91,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:111,111
+332,SAIDA,1,2026-01-17,Consumo operacional sintetico,OPERACAO:111:0,111
+333,SAIDA,1,2026-01-18,Consumo operacional sintetico,OPERACAO:111:1,111
+334,ENTRADA,92,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:112,112
+335,SAIDA,1,2026-01-20,Consumo operacional sintetico,OPERACAO:112:0,112
+336,SAIDA,1,2026-01-21,Consumo operacional sintetico,OPERACAO:112:1,112
+337,ENTRADA,93,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:113,113
+338,SAIDA,1,2026-01-23,Consumo operacional sintetico,OPERACAO:113:0,113
+339,SAIDA,1,2026-01-24,Consumo operacional sintetico,OPERACAO:113:1,113
+340,ENTRADA,94,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:114,114
+341,SAIDA,1,2026-01-26,Consumo operacional sintetico,OPERACAO:114:0,114
+342,SAIDA,1,2026-01-27,Consumo operacional sintetico,OPERACAO:114:1,114
+343,ENTRADA,95,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:115,115
+344,SAIDA,1,2026-01-29,Consumo operacional sintetico,OPERACAO:115:0,115
+345,SAIDA,1,2026-01-30,Consumo operacional sintetico,OPERACAO:115:1,115
+346,ENTRADA,96,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:116,116
+347,SAIDA,1,2026-02-01,Consumo operacional sintetico,OPERACAO:116:0,116
+348,SAIDA,1,2026-02-02,Consumo operacional sintetico,OPERACAO:116:1,116
+349,ENTRADA,97,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:117,117
+350,SAIDA,1,2026-02-04,Consumo operacional sintetico,OPERACAO:117:0,117
+351,SAIDA,1,2026-02-05,Consumo operacional sintetico,OPERACAO:117:1,117
+352,ENTRADA,98,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:118,118
+353,SAIDA,1,2026-02-07,Consumo operacional sintetico,OPERACAO:118:0,118
+354,SAIDA,1,2026-02-08,Consumo operacional sintetico,OPERACAO:118:1,118
+355,ENTRADA,99,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:119,119
+356,SAIDA,1,2026-02-10,Consumo operacional sintetico,OPERACAO:119:0,119
+357,SAIDA,1,2026-02-11,Consumo operacional sintetico,OPERACAO:119:1,119
+358,ENTRADA,100,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:120,120
+359,SAIDA,1,2026-02-13,Consumo operacional sintetico,OPERACAO:120:0,120
+360,SAIDA,1,2026-02-14,Consumo operacional sintetico,OPERACAO:120:1,120
+361,ENTRADA,101,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:121,121
+362,SAIDA,1,2026-02-16,Consumo operacional sintetico,OPERACAO:121:0,121
+363,SAIDA,1,2026-02-17,Consumo operacional sintetico,OPERACAO:121:1,121
+364,ENTRADA,102,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:122,122
+365,SAIDA,1,2026-02-19,Consumo operacional sintetico,OPERACAO:122:0,122
+366,SAIDA,1,2026-02-20,Consumo operacional sintetico,OPERACAO:122:1,122
+367,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:123,123
+368,SAIDA,1,2026-02-22,Consumo operacional sintetico,OPERACAO:123:0,123
+369,SAIDA,1,2026-02-23,Consumo operacional sintetico,OPERACAO:123:1,123
+370,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:124,124
+371,SAIDA,1,2026-02-25,Consumo operacional sintetico,OPERACAO:124:0,124
+372,SAIDA,1,2026-02-26,Consumo operacional sintetico,OPERACAO:124:1,124
+373,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:125,125
+374,SAIDA,1,2026-02-28,Consumo operacional sintetico,OPERACAO:125:0,125
+375,SAIDA,1,2026-03-01,Consumo operacional sintetico,OPERACAO:125:1,125
+376,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:126,126
+377,SAIDA,1,2026-03-03,Consumo operacional sintetico,OPERACAO:126:0,126
+378,SAIDA,1,2026-03-04,Consumo operacional sintetico,OPERACAO:126:1,126
+379,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:127,127
+380,SAIDA,1,2026-03-06,Consumo operacional sintetico,OPERACAO:127:0,127
+381,SAIDA,1,2026-03-07,Consumo operacional sintetico,OPERACAO:127:1,127
+382,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:128,128
+383,SAIDA,1,2026-03-09,Consumo operacional sintetico,OPERACAO:128:0,128
+384,SAIDA,1,2026-03-10,Consumo operacional sintetico,OPERACAO:128:1,128
+385,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:129,129
+386,SAIDA,1,2026-03-12,Consumo operacional sintetico,OPERACAO:129:0,129
+387,SAIDA,1,2026-03-13,Consumo operacional sintetico,OPERACAO:129:1,129
+388,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:130,130
+389,SAIDA,1,2026-03-15,Consumo operacional sintetico,OPERACAO:130:0,130
+390,SAIDA,1,2026-03-16,Consumo operacional sintetico,OPERACAO:130:1,130
+391,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:131,131
+392,SAIDA,1,2026-03-18,Consumo operacional sintetico,OPERACAO:131:0,131
+393,SAIDA,1,2026-03-19,Consumo operacional sintetico,OPERACAO:131:1,131
+394,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:132,132
+395,SAIDA,1,2026-03-21,Consumo operacional sintetico,OPERACAO:132:0,132
+396,SAIDA,1,2026-03-22,Consumo operacional sintetico,OPERACAO:132:1,132
+397,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:133,133
+398,SAIDA,1,2026-03-24,Consumo operacional sintetico,OPERACAO:133:0,133
+399,SAIDA,1,2026-03-25,Consumo operacional sintetico,OPERACAO:133:1,133
+400,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:134,134
+401,SAIDA,1,2026-03-27,Consumo operacional sintetico,OPERACAO:134:0,134
+402,SAIDA,1,2026-03-28,Consumo operacional sintetico,OPERACAO:134:1,134
+403,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:135,135
+404,SAIDA,1,2026-03-30,Consumo operacional sintetico,OPERACAO:135:0,135
+405,SAIDA,1,2026-03-31,Consumo operacional sintetico,OPERACAO:135:1,135
+406,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:136,136
+407,SAIDA,1,2026-04-02,Consumo operacional sintetico,OPERACAO:136:0,136
+408,SAIDA,1,2026-04-03,Consumo operacional sintetico,OPERACAO:136:1,136
+409,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:137,137
+410,SAIDA,1,2026-04-05,Consumo operacional sintetico,OPERACAO:137:0,137
+411,SAIDA,1,2026-04-06,Consumo operacional sintetico,OPERACAO:137:1,137
+412,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:138,138
+413,SAIDA,1,2026-04-08,Consumo operacional sintetico,OPERACAO:138:0,138
+414,SAIDA,1,2026-04-09,Consumo operacional sintetico,OPERACAO:138:1,138
+415,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:139,139
+416,SAIDA,1,2026-04-11,Consumo operacional sintetico,OPERACAO:139:0,139
+417,SAIDA,1,2026-04-12,Consumo operacional sintetico,OPERACAO:139:1,139
+418,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:140,140
+419,SAIDA,1,2026-04-14,Consumo operacional sintetico,OPERACAO:140:0,140
+420,SAIDA,1,2026-04-15,Consumo operacional sintetico,OPERACAO:140:1,140
+421,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:141,141
+422,SAIDA,1,2026-04-17,Consumo operacional sintetico,OPERACAO:141:0,141
+423,SAIDA,1,2026-04-18,Consumo operacional sintetico,OPERACAO:141:1,141
+424,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:142,142
+425,SAIDA,1,2026-04-20,Consumo operacional sintetico,OPERACAO:142:0,142
+426,SAIDA,1,2026-04-21,Consumo operacional sintetico,OPERACAO:142:1,142
+427,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:143,143
+428,SAIDA,1,2026-04-23,Consumo operacional sintetico,OPERACAO:143:0,143
+429,SAIDA,1,2026-04-24,Consumo operacional sintetico,OPERACAO:143:1,143
+430,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:144,144
+431,SAIDA,1,2026-04-26,Consumo operacional sintetico,OPERACAO:144:0,144
+432,SAIDA,1,2026-04-27,Consumo operacional sintetico,OPERACAO:144:1,144
+433,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:145,145
+434,SAIDA,1,2026-04-29,Consumo operacional sintetico,OPERACAO:145:0,145
+435,SAIDA,1,2026-04-30,Consumo operacional sintetico,OPERACAO:145:1,145
+436,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:146,146
+437,SAIDA,1,2026-05-02,Consumo operacional sintetico,OPERACAO:146:0,146
+438,SAIDA,1,2026-05-03,Consumo operacional sintetico,OPERACAO:146:1,146
+439,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:147,147
+440,SAIDA,1,2026-05-05,Consumo operacional sintetico,OPERACAO:147:0,147
+441,SAIDA,1,2026-05-06,Consumo operacional sintetico,OPERACAO:147:1,147
+442,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:148,148
+443,SAIDA,1,2026-05-08,Consumo operacional sintetico,OPERACAO:148:0,148
+444,SAIDA,1,2026-05-09,Consumo operacional sintetico,OPERACAO:148:1,148
+445,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:149,149
+446,SAIDA,1,2026-05-11,Consumo operacional sintetico,OPERACAO:149:0,149
+447,SAIDA,1,2026-05-12,Consumo operacional sintetico,OPERACAO:149:1,149
+448,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:150,150
+449,SAIDA,1,2026-05-14,Consumo operacional sintetico,OPERACAO:150:0,150
+450,SAIDA,1,2026-05-15,Consumo operacional sintetico,OPERACAO:150:1,150
+451,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:151,151
+452,SAIDA,1,2026-05-17,Consumo operacional sintetico,OPERACAO:151:0,151
+453,SAIDA,1,2026-05-18,Consumo operacional sintetico,OPERACAO:151:1,151
+454,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:152,152
+455,SAIDA,1,2026-05-20,Consumo operacional sintetico,OPERACAO:152:0,152
+456,SAIDA,1,2026-05-21,Consumo operacional sintetico,OPERACAO:152:1,152
+457,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:153,153
+458,SAIDA,1,2026-05-23,Consumo operacional sintetico,OPERACAO:153:0,153
+459,SAIDA,1,2026-05-24,Consumo operacional sintetico,OPERACAO:153:1,153
+460,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:154,154
+461,SAIDA,1,2026-05-26,Consumo operacional sintetico,OPERACAO:154:0,154
+462,SAIDA,1,2026-05-27,Consumo operacional sintetico,OPERACAO:154:1,154
+463,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:155,155
+464,SAIDA,1,2026-05-29,Consumo operacional sintetico,OPERACAO:155:0,155
+465,SAIDA,1,2026-05-30,Consumo operacional sintetico,OPERACAO:155:1,155
+466,ENTRADA,75,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:156,156
+467,SAIDA,1,2026-06-01,Consumo operacional sintetico,OPERACAO:156:0,156
+468,SAIDA,1,2026-06-02,Consumo operacional sintetico,OPERACAO:156:1,156
+469,ENTRADA,76,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:157,157
+470,SAIDA,1,2026-06-04,Consumo operacional sintetico,OPERACAO:157:0,157
+471,SAIDA,1,2026-06-05,Consumo operacional sintetico,OPERACAO:157:1,157
+472,ENTRADA,77,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:158,158
+473,SAIDA,1,2026-06-07,Consumo operacional sintetico,OPERACAO:158:0,158
+474,SAIDA,1,2026-06-08,Consumo operacional sintetico,OPERACAO:158:1,158
+475,ENTRADA,78,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:159,159
+476,SAIDA,1,2026-06-10,Consumo operacional sintetico,OPERACAO:159:0,159
+477,SAIDA,1,2026-06-11,Consumo operacional sintetico,OPERACAO:159:1,159
+478,ENTRADA,79,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:160,160
+479,SAIDA,1,2026-06-13,Consumo operacional sintetico,OPERACAO:160:0,160
+480,SAIDA,1,2026-06-14,Consumo operacional sintetico,OPERACAO:160:1,160
+481,ENTRADA,80,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:161,161
+482,SAIDA,1,2026-06-16,Consumo operacional sintetico,OPERACAO:161:0,161
+483,SAIDA,1,2026-06-17,Consumo operacional sintetico,OPERACAO:161:1,161
+484,ENTRADA,81,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:162,162
+485,SAIDA,1,2026-06-19,Consumo operacional sintetico,OPERACAO:162:0,162
+486,SAIDA,1,2026-06-20,Consumo operacional sintetico,OPERACAO:162:1,162
+487,ENTRADA,82,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:163,163
+488,SAIDA,1,2026-06-22,Consumo operacional sintetico,OPERACAO:163:0,163
+489,SAIDA,1,2026-06-23,Consumo operacional sintetico,OPERACAO:163:1,163
+490,ENTRADA,83,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:164,164
+491,SAIDA,1,2026-06-25,Consumo operacional sintetico,OPERACAO:164:0,164
+492,SAIDA,1,2026-06-26,Consumo operacional sintetico,OPERACAO:164:1,164
+493,ENTRADA,84,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:165,165
+494,SAIDA,1,2026-06-28,Consumo operacional sintetico,OPERACAO:165:0,165
+495,SAIDA,1,2026-06-29,Consumo operacional sintetico,OPERACAO:165:1,165
+496,ENTRADA,85,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:166,166
+497,SAIDA,1,2026-07-01,Consumo operacional sintetico,OPERACAO:166:0,166
+498,SAIDA,1,2026-07-02,Consumo operacional sintetico,OPERACAO:166:1,166
+499,ENTRADA,86,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:167,167
+500,SAIDA,1,2026-07-04,Consumo operacional sintetico,OPERACAO:167:0,167
+501,SAIDA,1,2026-07-05,Consumo operacional sintetico,OPERACAO:167:1,167
+502,ENTRADA,87,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:168,168
+503,SAIDA,1,2026-07-07,Consumo operacional sintetico,OPERACAO:168:0,168
+504,SAIDA,1,2026-07-08,Consumo operacional sintetico,OPERACAO:168:1,168
+505,ENTRADA,88,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:169,169
+506,SAIDA,1,2026-07-10,Consumo operacional sintetico,OPERACAO:169:0,169
+507,SAIDA,1,2026-07-11,Consumo operacional sintetico,OPERACAO:169:1,169
+508,ENTRADA,89,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:170,170
+509,SAIDA,1,2026-07-13,Consumo operacional sintetico,OPERACAO:170:0,170
+510,SAIDA,1,2026-07-14,Consumo operacional sintetico,OPERACAO:170:1,170
+511,ENTRADA,90,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:171,171
+512,SAIDA,1,2026-07-16,Consumo operacional sintetico,OPERACAO:171:0,171
+513,SAIDA,1,2026-07-17,Consumo operacional sintetico,OPERACAO:171:1,171
+514,ENTRADA,91,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:172,172
+515,SAIDA,1,2026-07-19,Consumo operacional sintetico,OPERACAO:172:0,172
+516,SAIDA,1,2026-07-20,Consumo operacional sintetico,OPERACAO:172:1,172
+517,ENTRADA,92,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:173,173
+518,SAIDA,1,2026-07-22,Consumo operacional sintetico,OPERACAO:173:0,173
+519,SAIDA,1,2026-07-23,Consumo operacional sintetico,OPERACAO:173:1,173
+520,ENTRADA,93,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:174,174
+521,SAIDA,1,2026-07-25,Consumo operacional sintetico,OPERACAO:174:0,174
+522,SAIDA,1,2026-07-26,Consumo operacional sintetico,OPERACAO:174:1,174
+523,ENTRADA,94,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:175,175
+524,SAIDA,1,2026-07-28,Consumo operacional sintetico,OPERACAO:175:0,175
+525,SAIDA,1,2026-07-29,Consumo operacional sintetico,OPERACAO:175:1,175
+526,ENTRADA,95,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:176,176
+527,SAIDA,1,2026-07-31,Consumo operacional sintetico,OPERACAO:176:0,176
+528,SAIDA,1,2026-08-01,Consumo operacional sintetico,OPERACAO:176:1,176
+529,ENTRADA,96,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:177,177
+530,SAIDA,1,2026-08-03,Consumo operacional sintetico,OPERACAO:177:0,177
+531,SAIDA,1,2025-01-01,Consumo operacional sintetico,OPERACAO:177:1,177
+532,ENTRADA,97,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:178,178
+533,SAIDA,1,2025-01-03,Consumo operacional sintetico,OPERACAO:178:0,178
+534,SAIDA,1,2025-01-04,Consumo operacional sintetico,OPERACAO:178:1,178
+535,ENTRADA,98,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:179,179
+536,SAIDA,1,2025-01-06,Consumo operacional sintetico,OPERACAO:179:0,179
+537,SAIDA,1,2025-01-07,Consumo operacional sintetico,OPERACAO:179:1,179
+538,ENTRADA,99,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:180,180
+539,SAIDA,1,2025-01-09,Consumo operacional sintetico,OPERACAO:180:0,180
+540,SAIDA,1,2025-01-10,Consumo operacional sintetico,OPERACAO:180:1,180
+541,ENTRADA,100,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:181,181
+542,SAIDA,1,2025-01-12,Consumo operacional sintetico,OPERACAO:181:0,181
+543,SAIDA,1,2025-01-13,Consumo operacional sintetico,OPERACAO:181:1,181
+544,ENTRADA,101,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:182,182
+545,SAIDA,1,2025-01-15,Consumo operacional sintetico,OPERACAO:182:0,182
+546,SAIDA,1,2025-01-16,Consumo operacional sintetico,OPERACAO:182:1,182
+547,ENTRADA,102,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:183,183
+548,SAIDA,1,2025-01-18,Consumo operacional sintetico,OPERACAO:183:0,183
+549,SAIDA,1,2025-01-19,Consumo operacional sintetico,OPERACAO:183:1,183
+550,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:184,184
+551,SAIDA,1,2025-01-21,Consumo operacional sintetico,OPERACAO:184:0,184
+552,SAIDA,1,2025-01-22,Consumo operacional sintetico,OPERACAO:184:1,184
+553,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:185,185
+554,SAIDA,1,2025-01-24,Consumo operacional sintetico,OPERACAO:185:0,185
+555,SAIDA,1,2025-01-25,Consumo operacional sintetico,OPERACAO:185:1,185
+556,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:186,186
+557,SAIDA,1,2025-01-27,Consumo operacional sintetico,OPERACAO:186:0,186
+558,SAIDA,1,2025-01-28,Consumo operacional sintetico,OPERACAO:186:1,186
+559,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:187,187
+560,SAIDA,1,2025-01-30,Consumo operacional sintetico,OPERACAO:187:0,187
+561,SAIDA,1,2025-01-31,Consumo operacional sintetico,OPERACAO:187:1,187
+562,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:188,188
+563,SAIDA,1,2025-02-02,Consumo operacional sintetico,OPERACAO:188:0,188
+564,SAIDA,1,2025-02-03,Consumo operacional sintetico,OPERACAO:188:1,188
+565,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:189,189
+566,SAIDA,1,2025-02-05,Consumo operacional sintetico,OPERACAO:189:0,189
+567,SAIDA,1,2025-02-06,Consumo operacional sintetico,OPERACAO:189:1,189
+568,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:190,190
+569,SAIDA,1,2025-02-08,Consumo operacional sintetico,OPERACAO:190:0,190
+570,SAIDA,1,2025-02-09,Consumo operacional sintetico,OPERACAO:190:1,190
+571,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:191,191
+572,SAIDA,1,2025-02-11,Consumo operacional sintetico,OPERACAO:191:0,191
+573,SAIDA,1,2025-02-12,Consumo operacional sintetico,OPERACAO:191:1,191
+574,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:192,192
+575,SAIDA,1,2025-02-14,Consumo operacional sintetico,OPERACAO:192:0,192
+576,SAIDA,1,2025-02-15,Consumo operacional sintetico,OPERACAO:192:1,192
+577,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:193,193
+578,SAIDA,1,2025-02-17,Consumo operacional sintetico,OPERACAO:193:0,193
+579,SAIDA,1,2025-02-18,Consumo operacional sintetico,OPERACAO:193:1,193
+580,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:194,194
+581,SAIDA,1,2025-02-20,Consumo operacional sintetico,OPERACAO:194:0,194
+582,SAIDA,1,2025-02-21,Consumo operacional sintetico,OPERACAO:194:1,194
+583,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:195,195
+584,SAIDA,1,2025-02-23,Consumo operacional sintetico,OPERACAO:195:0,195
+585,SAIDA,1,2025-02-24,Consumo operacional sintetico,OPERACAO:195:1,195
+586,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:196,196
+587,SAIDA,1,2025-02-26,Consumo operacional sintetico,OPERACAO:196:0,196
+588,SAIDA,1,2025-02-27,Consumo operacional sintetico,OPERACAO:196:1,196
+589,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:197,197
+590,SAIDA,1,2025-03-01,Consumo operacional sintetico,OPERACAO:197:0,197
+591,SAIDA,1,2025-03-02,Consumo operacional sintetico,OPERACAO:197:1,197
+592,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:198,198
+593,SAIDA,1,2025-03-04,Consumo operacional sintetico,OPERACAO:198:0,198
+594,SAIDA,1,2025-03-05,Consumo operacional sintetico,OPERACAO:198:1,198
+595,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:199,199
+596,SAIDA,1,2025-03-07,Consumo operacional sintetico,OPERACAO:199:0,199
+597,SAIDA,1,2025-03-08,Consumo operacional sintetico,OPERACAO:199:1,199
+598,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:200,200
+599,SAIDA,1,2025-03-10,Consumo operacional sintetico,OPERACAO:200:0,200
+600,SAIDA,1,2025-03-11,Consumo operacional sintetico,OPERACAO:200:1,200
+601,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:201,201
+602,SAIDA,1,2025-03-13,Consumo operacional sintetico,OPERACAO:201:0,201
+603,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:202,202
+604,SAIDA,1,2025-03-15,Consumo operacional sintetico,OPERACAO:202:0,202
+605,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:203,203
+606,SAIDA,1,2025-03-17,Consumo operacional sintetico,OPERACAO:203:0,203
+607,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:204,204
+608,SAIDA,1,2025-03-19,Consumo operacional sintetico,OPERACAO:204:0,204
+609,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:205,205
+610,SAIDA,1,2025-03-21,Consumo operacional sintetico,OPERACAO:205:0,205
+611,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:206,206
+612,SAIDA,1,2025-03-23,Consumo operacional sintetico,OPERACAO:206:0,206
+613,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:207,207
+614,SAIDA,1,2025-03-25,Consumo operacional sintetico,OPERACAO:207:0,207
+615,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:208,208
+616,SAIDA,1,2025-03-27,Consumo operacional sintetico,OPERACAO:208:0,208
+617,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:209,209
+618,SAIDA,1,2025-03-29,Consumo operacional sintetico,OPERACAO:209:0,209
+619,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:210,210
+620,SAIDA,1,2025-03-31,Consumo operacional sintetico,OPERACAO:210:0,210
+621,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:211,211
+622,SAIDA,1,2025-04-02,Consumo operacional sintetico,OPERACAO:211:0,211
+623,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:212,212
+624,SAIDA,1,2025-04-04,Consumo operacional sintetico,OPERACAO:212:0,212
+625,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:213,213
+626,SAIDA,1,2025-04-06,Consumo operacional sintetico,OPERACAO:213:0,213
+627,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:214,214
+628,SAIDA,1,2025-04-08,Consumo operacional sintetico,OPERACAO:214:0,214
+629,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:215,215
+630,SAIDA,1,2025-04-10,Consumo operacional sintetico,OPERACAO:215:0,215
+631,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:216,216
+632,SAIDA,1,2025-04-12,Consumo operacional sintetico,OPERACAO:216:0,216
+633,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:217,217
+634,SAIDA,1,2025-04-14,Consumo operacional sintetico,OPERACAO:217:0,217
+635,ENTRADA,75,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:218,218
+636,SAIDA,1,2025-04-16,Consumo operacional sintetico,OPERACAO:218:0,218
+637,ENTRADA,76,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:219,219
+638,SAIDA,1,2025-04-18,Consumo operacional sintetico,OPERACAO:219:0,219
+639,ENTRADA,77,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:220,220
+640,SAIDA,1,2025-04-20,Consumo operacional sintetico,OPERACAO:220:0,220
+641,ENTRADA,78,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:221,221
+642,SAIDA,1,2025-04-22,Consumo operacional sintetico,OPERACAO:221:0,221
+643,ENTRADA,79,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:222,222
+644,SAIDA,1,2025-04-24,Consumo operacional sintetico,OPERACAO:222:0,222
+645,ENTRADA,80,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:223,223
+646,SAIDA,1,2025-04-26,Consumo operacional sintetico,OPERACAO:223:0,223
+647,ENTRADA,81,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:224,224
+648,SAIDA,1,2025-04-28,Consumo operacional sintetico,OPERACAO:224:0,224
+649,ENTRADA,82,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:225,225
+650,SAIDA,1,2025-04-30,Consumo operacional sintetico,OPERACAO:225:0,225
+651,ENTRADA,83,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:226,226
+652,SAIDA,1,2025-05-02,Consumo operacional sintetico,OPERACAO:226:0,226
+653,ENTRADA,84,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:227,227
+654,SAIDA,1,2025-05-04,Consumo operacional sintetico,OPERACAO:227:0,227
+655,ENTRADA,85,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:228,228
+656,SAIDA,1,2025-05-06,Consumo operacional sintetico,OPERACAO:228:0,228
+657,ENTRADA,86,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:229,229
+658,SAIDA,1,2025-05-08,Consumo operacional sintetico,OPERACAO:229:0,229
+659,ENTRADA,87,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:230,230
+660,SAIDA,1,2025-05-10,Consumo operacional sintetico,OPERACAO:230:0,230
+661,ENTRADA,88,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:231,231
+662,SAIDA,1,2025-05-12,Consumo operacional sintetico,OPERACAO:231:0,231
+663,ENTRADA,89,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:232,232
+664,SAIDA,1,2025-05-14,Consumo operacional sintetico,OPERACAO:232:0,232
+665,ENTRADA,90,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:233,233
+666,SAIDA,1,2025-05-16,Consumo operacional sintetico,OPERACAO:233:0,233
+667,ENTRADA,91,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:234,234
+668,SAIDA,1,2025-05-18,Consumo operacional sintetico,OPERACAO:234:0,234
+669,ENTRADA,92,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:235,235
+670,SAIDA,1,2025-05-20,Consumo operacional sintetico,OPERACAO:235:0,235
+671,ENTRADA,93,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:236,236
+672,SAIDA,1,2025-05-22,Consumo operacional sintetico,OPERACAO:236:0,236
+673,ENTRADA,94,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:237,237
+674,SAIDA,1,2025-05-24,Consumo operacional sintetico,OPERACAO:237:0,237
+675,ENTRADA,95,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:238,238
+676,SAIDA,1,2025-05-26,Consumo operacional sintetico,OPERACAO:238:0,238
+677,ENTRADA,96,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:239,239
+678,SAIDA,1,2025-05-28,Consumo operacional sintetico,OPERACAO:239:0,239
+679,ENTRADA,97,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:240,240
+680,SAIDA,1,2025-05-30,Consumo operacional sintetico,OPERACAO:240:0,240
+681,ENTRADA,98,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:241,241
+682,SAIDA,1,2025-06-01,Consumo operacional sintetico,OPERACAO:241:0,241
+683,ENTRADA,99,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:242,242
+684,SAIDA,1,2025-06-03,Consumo operacional sintetico,OPERACAO:242:0,242
+685,ENTRADA,100,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:243,243
+686,SAIDA,1,2025-06-05,Consumo operacional sintetico,OPERACAO:243:0,243
+687,ENTRADA,101,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:244,244
+688,SAIDA,1,2025-06-07,Consumo operacional sintetico,OPERACAO:244:0,244
+689,ENTRADA,41,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:245,245
+690,SAIDA,1,2025-06-09,Consumo operacional sintetico,OPERACAO:245:0,245
+691,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:246,246
+692,SAIDA,1,2025-06-11,Consumo operacional sintetico,OPERACAO:246:0,246
+693,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:247,247
+694,SAIDA,1,2025-06-13,Consumo operacional sintetico,OPERACAO:247:0,247
+695,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:248,248
+696,SAIDA,1,2025-06-15,Consumo operacional sintetico,OPERACAO:248:0,248
+697,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:249,249
+698,SAIDA,1,2025-06-17,Consumo operacional sintetico,OPERACAO:249:0,249
+699,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:250,250
+700,SAIDA,1,2025-06-19,Consumo operacional sintetico,OPERACAO:250:0,250
+701,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:251,251
+702,SAIDA,1,2025-06-21,Consumo operacional sintetico,OPERACAO:251:0,251
+703,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:252,252
+704,SAIDA,1,2025-06-23,Consumo operacional sintetico,OPERACAO:252:0,252
+705,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:253,253
+706,SAIDA,1,2025-06-25,Consumo operacional sintetico,OPERACAO:253:0,253
+707,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:254,254
+708,SAIDA,1,2025-06-27,Consumo operacional sintetico,OPERACAO:254:0,254
+709,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:255,255
+710,SAIDA,1,2025-06-29,Consumo operacional sintetico,OPERACAO:255:0,255
+711,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:256,256
+712,SAIDA,1,2025-07-01,Consumo operacional sintetico,OPERACAO:256:0,256
+713,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:257,257
+714,SAIDA,1,2025-07-03,Consumo operacional sintetico,OPERACAO:257:0,257
+715,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:258,258
+716,SAIDA,1,2025-07-05,Consumo operacional sintetico,OPERACAO:258:0,258
+717,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:259,259
+718,SAIDA,1,2025-07-07,Consumo operacional sintetico,OPERACAO:259:0,259
+719,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:260,260
+720,SAIDA,1,2025-07-09,Consumo operacional sintetico,OPERACAO:260:0,260
+721,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:261,261
+722,SAIDA,1,2025-07-11,Consumo operacional sintetico,OPERACAO:261:0,261
+723,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:262,262
+724,SAIDA,1,2025-07-13,Consumo operacional sintetico,OPERACAO:262:0,262
+725,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:263,263
+726,SAIDA,1,2025-07-15,Consumo operacional sintetico,OPERACAO:263:0,263
+727,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:264,264
+728,SAIDA,1,2025-07-17,Consumo operacional sintetico,OPERACAO:264:0,264
+729,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:265,265
+730,SAIDA,1,2025-07-19,Consumo operacional sintetico,OPERACAO:265:0,265
+731,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:266,266
+732,SAIDA,1,2025-07-21,Consumo operacional sintetico,OPERACAO:266:0,266
+733,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:267,267
+734,SAIDA,1,2025-07-23,Consumo operacional sintetico,OPERACAO:267:0,267
+735,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:268,268
+736,SAIDA,1,2025-07-25,Consumo operacional sintetico,OPERACAO:268:0,268
+737,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:269,269
+738,SAIDA,1,2025-07-27,Consumo operacional sintetico,OPERACAO:269:0,269
+739,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:270,270
+740,SAIDA,1,2025-07-29,Consumo operacional sintetico,OPERACAO:270:0,270
+741,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:271,271
+742,SAIDA,1,2025-07-31,Consumo operacional sintetico,OPERACAO:271:0,271
+743,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:272,272
+744,SAIDA,1,2025-08-02,Consumo operacional sintetico,OPERACAO:272:0,272
+745,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:273,273
+746,SAIDA,1,2025-08-04,Consumo operacional sintetico,OPERACAO:273:0,273
+747,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:274,274
+748,SAIDA,1,2025-08-06,Consumo operacional sintetico,OPERACAO:274:0,274
+749,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:275,275
+750,SAIDA,1,2025-08-08,Consumo operacional sintetico,OPERACAO:275:0,275
+751,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:276,276
+752,SAIDA,1,2025-08-10,Consumo operacional sintetico,OPERACAO:276:0,276
+753,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:277,277
+754,SAIDA,1,2025-08-12,Consumo operacional sintetico,OPERACAO:277:0,277
+755,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:278,278
+756,SAIDA,1,2025-08-14,Consumo operacional sintetico,OPERACAO:278:0,278
+757,ENTRADA,75,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:279,279
+758,SAIDA,1,2025-08-16,Consumo operacional sintetico,OPERACAO:279:0,279
+759,ENTRADA,76,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:280,280
+760,SAIDA,1,2025-08-18,Consumo operacional sintetico,OPERACAO:280:0,280
+761,ENTRADA,77,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:281,281
+762,SAIDA,1,2025-08-20,Consumo operacional sintetico,OPERACAO:281:0,281
+763,ENTRADA,78,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:282,282
+764,SAIDA,1,2025-08-22,Consumo operacional sintetico,OPERACAO:282:0,282
+765,ENTRADA,79,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:283,283
+766,SAIDA,1,2025-08-24,Consumo operacional sintetico,OPERACAO:283:0,283
+767,ENTRADA,80,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:284,284
+768,SAIDA,1,2025-08-26,Consumo operacional sintetico,OPERACAO:284:0,284
+769,ENTRADA,81,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:285,285
+770,SAIDA,1,2025-08-28,Consumo operacional sintetico,OPERACAO:285:0,285
+771,ENTRADA,82,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:286,286
+772,SAIDA,1,2025-08-30,Consumo operacional sintetico,OPERACAO:286:0,286
+773,ENTRADA,83,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:287,287
+774,SAIDA,1,2025-09-01,Consumo operacional sintetico,OPERACAO:287:0,287
+775,ENTRADA,84,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:288,288
+776,SAIDA,1,2025-09-03,Consumo operacional sintetico,OPERACAO:288:0,288
+777,ENTRADA,85,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:289,289
+778,SAIDA,1,2025-09-05,Consumo operacional sintetico,OPERACAO:289:0,289
+779,ENTRADA,86,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:290,290
+780,SAIDA,1,2025-09-07,Consumo operacional sintetico,OPERACAO:290:0,290
+781,ENTRADA,87,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:291,291
+782,SAIDA,1,2025-09-09,Consumo operacional sintetico,OPERACAO:291:0,291
+783,ENTRADA,88,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:292,292
+784,SAIDA,1,2025-09-11,Consumo operacional sintetico,OPERACAO:292:0,292
+785,ENTRADA,89,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:293,293
+786,SAIDA,1,2025-09-13,Consumo operacional sintetico,OPERACAO:293:0,293
+787,ENTRADA,90,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:294,294
+788,SAIDA,1,2025-09-15,Consumo operacional sintetico,OPERACAO:294:0,294
+789,ENTRADA,91,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:295,295
+790,SAIDA,1,2025-09-17,Consumo operacional sintetico,OPERACAO:295:0,295
+791,ENTRADA,92,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:296,296
+792,SAIDA,1,2025-09-19,Consumo operacional sintetico,OPERACAO:296:0,296
+793,ENTRADA,93,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:297,297
+794,SAIDA,1,2025-09-21,Consumo operacional sintetico,OPERACAO:297:0,297
+795,ENTRADA,94,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:298,298
+796,SAIDA,1,2025-09-23,Consumo operacional sintetico,OPERACAO:298:0,298
+797,ENTRADA,95,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:299,299
+798,SAIDA,1,2025-09-25,Consumo operacional sintetico,OPERACAO:299:0,299
+799,ENTRADA,96,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:300,300
+800,SAIDA,1,2025-09-27,Consumo operacional sintetico,OPERACAO:300:0,300
+801,ENTRADA,97,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:301,301
+802,SAIDA,1,2025-09-29,Consumo operacional sintetico,OPERACAO:301:0,301
+803,ENTRADA,98,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:302,302
+804,SAIDA,1,2025-10-01,Consumo operacional sintetico,OPERACAO:302:0,302
+805,ENTRADA,99,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:303,303
+806,SAIDA,1,2025-10-03,Consumo operacional sintetico,OPERACAO:303:0,303
+807,ENTRADA,100,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:304,304
+808,SAIDA,1,2025-10-05,Consumo operacional sintetico,OPERACAO:304:0,304
+809,ENTRADA,101,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:305,305
+810,SAIDA,1,2025-10-07,Consumo operacional sintetico,OPERACAO:305:0,305
+811,ENTRADA,41,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:306,306
+812,SAIDA,1,2025-10-09,Consumo operacional sintetico,OPERACAO:306:0,306
+813,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:307,307
+814,SAIDA,1,2025-10-11,Consumo operacional sintetico,OPERACAO:307:0,307
+815,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:308,308
+816,SAIDA,1,2025-10-13,Consumo operacional sintetico,OPERACAO:308:0,308
+817,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:309,309
+818,SAIDA,1,2025-10-15,Consumo operacional sintetico,OPERACAO:309:0,309
+819,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:310,310
+820,SAIDA,1,2025-10-17,Consumo operacional sintetico,OPERACAO:310:0,310
+821,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:311,311
+822,SAIDA,1,2025-10-19,Consumo operacional sintetico,OPERACAO:311:0,311
+823,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:312,312
+824,SAIDA,1,2025-10-21,Consumo operacional sintetico,OPERACAO:312:0,312
+825,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:313,313
+826,SAIDA,1,2025-10-23,Consumo operacional sintetico,OPERACAO:313:0,313
+827,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:314,314
+828,SAIDA,1,2025-10-25,Consumo operacional sintetico,OPERACAO:314:0,314
+829,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:315,315
+830,SAIDA,1,2025-10-27,Consumo operacional sintetico,OPERACAO:315:0,315
+831,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:316,316
+832,SAIDA,1,2025-10-29,Consumo operacional sintetico,OPERACAO:316:0,316
+833,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:317,317
+834,SAIDA,1,2025-10-31,Consumo operacional sintetico,OPERACAO:317:0,317
+835,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:318,318
+836,SAIDA,1,2025-11-02,Consumo operacional sintetico,OPERACAO:318:0,318
+837,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:319,319
+838,SAIDA,1,2025-11-04,Consumo operacional sintetico,OPERACAO:319:0,319
+839,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:320,320
+840,SAIDA,1,2025-11-06,Consumo operacional sintetico,OPERACAO:320:0,320
+841,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:321,321
+842,SAIDA,1,2025-11-08,Consumo operacional sintetico,OPERACAO:321:0,321
+843,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:322,322
+844,SAIDA,1,2025-11-10,Consumo operacional sintetico,OPERACAO:322:0,322
+845,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:323,323
+846,SAIDA,1,2025-11-12,Consumo operacional sintetico,OPERACAO:323:0,323
+847,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:324,324
+848,SAIDA,1,2025-11-14,Consumo operacional sintetico,OPERACAO:324:0,324
+849,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:325,325
+850,SAIDA,1,2025-11-16,Consumo operacional sintetico,OPERACAO:325:0,325
+851,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:326,326
+852,SAIDA,1,2025-11-18,Consumo operacional sintetico,OPERACAO:326:0,326
+853,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:327,327
+854,SAIDA,1,2025-11-20,Consumo operacional sintetico,OPERACAO:327:0,327
+855,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:328,328
+856,SAIDA,1,2025-11-22,Consumo operacional sintetico,OPERACAO:328:0,328
+857,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:329,329
+858,SAIDA,1,2025-11-24,Consumo operacional sintetico,OPERACAO:329:0,329
+859,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:330,330
+860,SAIDA,1,2025-11-26,Consumo operacional sintetico,OPERACAO:330:0,330
+861,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:331,331
+862,SAIDA,1,2025-11-28,Consumo operacional sintetico,OPERACAO:331:0,331
+863,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:332,332
+864,SAIDA,1,2025-11-30,Consumo operacional sintetico,OPERACAO:332:0,332
+865,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:333,333
+866,SAIDA,1,2025-12-02,Consumo operacional sintetico,OPERACAO:333:0,333
+867,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:334,334
+868,SAIDA,1,2025-12-04,Consumo operacional sintetico,OPERACAO:334:0,334
+869,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:335,335
+870,SAIDA,1,2025-12-06,Consumo operacional sintetico,OPERACAO:335:0,335
+871,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:336,336
+872,SAIDA,1,2025-12-08,Consumo operacional sintetico,OPERACAO:336:0,336
+873,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:337,337
+874,SAIDA,1,2025-12-10,Consumo operacional sintetico,OPERACAO:337:0,337
+875,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:338,338
+876,SAIDA,1,2025-12-12,Consumo operacional sintetico,OPERACAO:338:0,338
+877,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:339,339
+878,SAIDA,1,2025-12-14,Consumo operacional sintetico,OPERACAO:339:0,339
+879,ENTRADA,75,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:340,340
+880,SAIDA,1,2025-12-16,Consumo operacional sintetico,OPERACAO:340:0,340
+881,ENTRADA,76,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:341,341
+882,SAIDA,1,2025-12-18,Consumo operacional sintetico,OPERACAO:341:0,341
+883,ENTRADA,77,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:342,342
+884,SAIDA,1,2025-12-20,Consumo operacional sintetico,OPERACAO:342:0,342
+885,ENTRADA,78,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:343,343
+886,SAIDA,1,2025-12-22,Consumo operacional sintetico,OPERACAO:343:0,343
+887,ENTRADA,79,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:344,344
+888,SAIDA,1,2025-12-24,Consumo operacional sintetico,OPERACAO:344:0,344
+889,ENTRADA,80,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:345,345
+890,SAIDA,1,2025-12-26,Consumo operacional sintetico,OPERACAO:345:0,345
+891,ENTRADA,81,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:346,346
+892,SAIDA,1,2025-12-28,Consumo operacional sintetico,OPERACAO:346:0,346
+893,ENTRADA,82,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:347,347
+894,SAIDA,1,2025-12-30,Consumo operacional sintetico,OPERACAO:347:0,347
+895,ENTRADA,83,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:348,348
+896,SAIDA,1,2026-01-01,Consumo operacional sintetico,OPERACAO:348:0,348
+897,ENTRADA,84,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:349,349
+898,SAIDA,1,2026-01-03,Consumo operacional sintetico,OPERACAO:349:0,349
+899,ENTRADA,85,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:350,350
+900,SAIDA,1,2026-01-05,Consumo operacional sintetico,OPERACAO:350:0,350
+901,ENTRADA,86,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:351,351
+902,SAIDA,1,2026-01-07,Consumo operacional sintetico,OPERACAO:351:0,351
+903,ENTRADA,87,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:352,352
+904,SAIDA,1,2026-01-09,Consumo operacional sintetico,OPERACAO:352:0,352
+905,ENTRADA,88,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:353,353
+906,SAIDA,1,2026-01-11,Consumo operacional sintetico,OPERACAO:353:0,353
+907,ENTRADA,89,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:354,354
+908,SAIDA,1,2026-01-13,Consumo operacional sintetico,OPERACAO:354:0,354
+909,ENTRADA,90,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:355,355
+910,SAIDA,1,2026-01-15,Consumo operacional sintetico,OPERACAO:355:0,355
+911,ENTRADA,91,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:356,356
+912,SAIDA,1,2026-01-17,Consumo operacional sintetico,OPERACAO:356:0,356
+913,ENTRADA,92,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:357,357
+914,SAIDA,1,2026-01-19,Consumo operacional sintetico,OPERACAO:357:0,357
+915,ENTRADA,93,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:358,358
+916,SAIDA,1,2026-01-21,Consumo operacional sintetico,OPERACAO:358:0,358
+917,ENTRADA,94,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:359,359
+918,SAIDA,1,2026-01-23,Consumo operacional sintetico,OPERACAO:359:0,359
+919,ENTRADA,95,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:360,360
+920,SAIDA,1,2026-01-25,Consumo operacional sintetico,OPERACAO:360:0,360
+921,ENTRADA,96,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:361,361
+922,SAIDA,1,2026-01-27,Consumo operacional sintetico,OPERACAO:361:0,361
+923,ENTRADA,97,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:362,362
+924,SAIDA,1,2026-01-29,Consumo operacional sintetico,OPERACAO:362:0,362
+925,ENTRADA,98,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:363,363
+926,SAIDA,1,2026-01-31,Consumo operacional sintetico,OPERACAO:363:0,363
+927,ENTRADA,99,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:364,364
+928,SAIDA,1,2026-02-02,Consumo operacional sintetico,OPERACAO:364:0,364
+929,ENTRADA,100,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:365,365
+930,SAIDA,1,2026-02-04,Consumo operacional sintetico,OPERACAO:365:0,365
+931,ENTRADA,101,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:366,366
+932,SAIDA,1,2026-02-06,Consumo operacional sintetico,OPERACAO:366:0,366
+933,ENTRADA,41,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:367,367
+934,SAIDA,1,2026-02-08,Consumo operacional sintetico,OPERACAO:367:0,367
+935,ENTRADA,42,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:368,368
+936,SAIDA,1,2026-02-10,Consumo operacional sintetico,OPERACAO:368:0,368
+937,ENTRADA,43,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:369,369
+938,SAIDA,1,2026-02-12,Consumo operacional sintetico,OPERACAO:369:0,369
+939,ENTRADA,44,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:370,370
+940,SAIDA,1,2026-02-14,Consumo operacional sintetico,OPERACAO:370:0,370
+941,ENTRADA,45,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:371,371
+942,SAIDA,1,2026-02-16,Consumo operacional sintetico,OPERACAO:371:0,371
+943,ENTRADA,46,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:372,372
+944,SAIDA,1,2026-02-18,Consumo operacional sintetico,OPERACAO:372:0,372
+945,ENTRADA,47,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:373,373
+946,SAIDA,1,2026-02-20,Consumo operacional sintetico,OPERACAO:373:0,373
+947,ENTRADA,48,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:374,374
+948,SAIDA,1,2026-02-22,Consumo operacional sintetico,OPERACAO:374:0,374
+949,ENTRADA,49,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:375,375
+950,SAIDA,1,2026-02-24,Consumo operacional sintetico,OPERACAO:375:0,375
+951,ENTRADA,50,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:376,376
+952,SAIDA,1,2026-02-26,Consumo operacional sintetico,OPERACAO:376:0,376
+953,ENTRADA,51,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:377,377
+954,SAIDA,1,2026-02-28,Consumo operacional sintetico,OPERACAO:377:0,377
+955,ENTRADA,52,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:378,378
+956,SAIDA,1,2026-03-02,Consumo operacional sintetico,OPERACAO:378:0,378
+957,ENTRADA,53,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:379,379
+958,SAIDA,1,2026-03-04,Consumo operacional sintetico,OPERACAO:379:0,379
+959,ENTRADA,54,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:380,380
+960,SAIDA,1,2026-03-06,Consumo operacional sintetico,OPERACAO:380:0,380
+961,ENTRADA,55,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:381,381
+962,SAIDA,1,2026-03-08,Consumo operacional sintetico,OPERACAO:381:0,381
+963,ENTRADA,56,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:382,382
+964,SAIDA,1,2026-03-10,Consumo operacional sintetico,OPERACAO:382:0,382
+965,ENTRADA,57,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:383,383
+966,SAIDA,1,2026-03-12,Consumo operacional sintetico,OPERACAO:383:0,383
+967,ENTRADA,58,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:384,384
+968,SAIDA,1,2026-03-14,Consumo operacional sintetico,OPERACAO:384:0,384
+969,ENTRADA,59,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:385,385
+970,SAIDA,1,2026-03-16,Consumo operacional sintetico,OPERACAO:385:0,385
+971,ENTRADA,60,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:386,386
+972,SAIDA,1,2026-03-18,Consumo operacional sintetico,OPERACAO:386:0,386
+973,ENTRADA,61,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:387,387
+974,SAIDA,1,2026-03-20,Consumo operacional sintetico,OPERACAO:387:0,387
+975,ENTRADA,62,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:388,388
+976,SAIDA,1,2026-03-22,Consumo operacional sintetico,OPERACAO:388:0,388
+977,ENTRADA,63,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:389,389
+978,SAIDA,1,2026-03-24,Consumo operacional sintetico,OPERACAO:389:0,389
+979,ENTRADA,64,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:390,390
+980,SAIDA,1,2026-03-26,Consumo operacional sintetico,OPERACAO:390:0,390
+981,ENTRADA,65,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:391,391
+982,SAIDA,1,2026-03-28,Consumo operacional sintetico,OPERACAO:391:0,391
+983,ENTRADA,66,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:392,392
+984,SAIDA,1,2026-03-30,Consumo operacional sintetico,OPERACAO:392:0,392
+985,ENTRADA,67,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:393,393
+986,SAIDA,1,2026-04-01,Consumo operacional sintetico,OPERACAO:393:0,393
+987,ENTRADA,68,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:394,394
+988,SAIDA,1,2026-04-03,Consumo operacional sintetico,OPERACAO:394:0,394
+989,ENTRADA,69,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:395,395
+990,SAIDA,1,2026-04-05,Consumo operacional sintetico,OPERACAO:395:0,395
+991,ENTRADA,70,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:396,396
+992,SAIDA,1,2026-04-07,Consumo operacional sintetico,OPERACAO:396:0,396
+993,ENTRADA,71,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:397,397
+994,SAIDA,1,2026-04-09,Consumo operacional sintetico,OPERACAO:397:0,397
+995,ENTRADA,72,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:398,398
+996,SAIDA,1,2026-04-11,Consumo operacional sintetico,OPERACAO:398:0,398
+997,ENTRADA,73,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:399,399
+998,SAIDA,1,2026-04-13,Consumo operacional sintetico,OPERACAO:399:0,399
+999,ENTRADA,74,2025-01-01,Saldo inicial sintetico do horizonte,ABERTURA:400,400
+1000,SAIDA,1,2026-04-15,Consumo operacional sintetico,OPERACAO:400:0,400

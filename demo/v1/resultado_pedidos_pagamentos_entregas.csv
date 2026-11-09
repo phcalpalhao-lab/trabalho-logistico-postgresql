@@ -1,0 +1,4 @@
+situacao_pagamento,pedidos,valor_total_pedidos,valor_aprovado_registrado,tentativas_pendentes,tentativas_recusadas,pedidos_com_entrega,pedidos_com_todas_entregas_concluidas,pedidos_concluidos
+PARCIAL,60,14206.77,7103.53,0,0,0,0,0
+QUITADO,600,146461.32,146461.32,0,0,600,350,350
+SEM_APROVACAO,240,52817.43,0,40,40,0,0,0

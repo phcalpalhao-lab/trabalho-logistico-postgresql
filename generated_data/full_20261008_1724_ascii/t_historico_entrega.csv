@@ -1,0 +1,1701 @@
+﻿id_historico,data_evento,status_evento,local_evento,observaÇÃo,t_entrega_id_entrega
+1,2025-01-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,1
+2,2025-01-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,1
+3,2025-01-05,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,1
+4,2025-01-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,2
+5,2025-01-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,2
+6,2025-01-06,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,2
+7,2025-01-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,3
+8,2025-01-06,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,3
+9,2025-01-07,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,3
+10,2025-01-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,4
+11,2025-01-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,4
+12,2025-01-08,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,4
+13,2025-01-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,5
+14,2025-01-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,5
+15,2025-01-09,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,5
+16,2025-01-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,6
+17,2025-01-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,6
+18,2025-01-10,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,6
+19,2025-01-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,7
+20,2025-01-10,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,7
+21,2025-01-11,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,7
+22,2025-01-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,8
+23,2025-01-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,8
+24,2025-01-12,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,8
+25,2025-01-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,9
+26,2025-01-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,9
+27,2025-01-13,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,9
+28,2025-01-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,10
+29,2025-01-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,10
+30,2025-01-14,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,10
+31,2025-01-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,11
+32,2025-01-14,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,11
+33,2025-01-15,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,11
+34,2025-01-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,12
+35,2025-01-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,12
+36,2025-01-16,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,12
+37,2025-01-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,13
+38,2025-01-16,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,13
+39,2025-01-17,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,13
+40,2025-01-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,14
+41,2025-01-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,14
+42,2025-01-18,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,14
+43,2025-01-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,15
+44,2025-01-18,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,15
+45,2025-01-19,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,15
+46,2025-01-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,16
+47,2025-01-19,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,16
+48,2025-01-20,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,16
+49,2025-01-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,17
+50,2025-01-20,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,17
+51,2025-01-21,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,17
+52,2025-01-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,18
+53,2025-01-21,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,18
+54,2025-01-22,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,18
+55,2025-01-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,19
+56,2025-01-22,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,19
+57,2025-01-23,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,19
+58,2025-01-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,20
+59,2025-01-23,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,20
+60,2025-01-24,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,20
+61,2025-01-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,21
+62,2025-01-24,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,21
+63,2025-01-25,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,21
+64,2025-01-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,22
+65,2025-01-25,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,22
+66,2025-01-26,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,22
+67,2025-01-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,23
+68,2025-01-26,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,23
+69,2025-01-27,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,23
+70,2025-01-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,24
+71,2025-01-27,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,24
+72,2025-01-28,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,24
+73,2025-01-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,25
+74,2025-01-28,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,25
+75,2025-01-29,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,25
+76,2025-01-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,26
+77,2025-01-29,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,26
+78,2025-01-30,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,26
+79,2025-01-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,27
+80,2025-01-30,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,27
+81,2025-01-31,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,27
+82,2025-01-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,28
+83,2025-01-31,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,28
+84,2025-02-01,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,28
+85,2025-01-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,29
+86,2025-02-01,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,29
+87,2025-02-02,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,29
+88,2025-02-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,30
+89,2025-02-02,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,30
+90,2025-02-03,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,30
+91,2025-02-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,31
+92,2025-02-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,31
+93,2025-02-04,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,31
+94,2025-02-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,32
+95,2025-02-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,32
+96,2025-02-05,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,32
+97,2025-02-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,33
+98,2025-02-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,33
+99,2025-02-06,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,33
+100,2025-02-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,34
+101,2025-02-06,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,34
+102,2025-02-07,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,34
+103,2025-02-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,35
+104,2025-02-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,35
+105,2025-02-08,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,35
+106,2025-02-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,36
+107,2025-02-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,36
+108,2025-02-09,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,36
+109,2025-02-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,37
+110,2025-02-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,37
+111,2025-02-10,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,37
+112,2025-02-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,38
+113,2025-02-10,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,38
+114,2025-02-11,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,38
+115,2025-02-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,39
+116,2025-02-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,39
+117,2025-02-12,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,39
+118,2025-02-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,40
+119,2025-02-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,40
+120,2025-02-13,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,40
+121,2025-02-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,41
+122,2025-02-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,41
+123,2025-02-14,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,41
+124,2025-02-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,42
+125,2025-02-14,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,42
+126,2025-02-15,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,42
+127,2025-02-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,43
+128,2025-02-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,43
+129,2025-02-16,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,43
+130,2025-02-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,44
+131,2025-02-16,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,44
+132,2025-02-17,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,44
+133,2025-02-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,45
+134,2025-02-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,45
+135,2025-02-18,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,45
+136,2025-02-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,46
+137,2025-02-18,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,46
+138,2025-02-19,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,46
+139,2025-02-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,47
+140,2025-02-19,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,47
+141,2025-02-20,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,47
+142,2025-02-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,48
+143,2025-02-20,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,48
+144,2025-02-21,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,48
+145,2025-02-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,49
+146,2025-02-21,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,49
+147,2025-02-22,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,49
+148,2025-02-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,50
+149,2025-02-22,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,50
+150,2025-02-23,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,50
+151,2025-02-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,51
+152,2025-02-23,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,51
+153,2025-02-24,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,51
+154,2025-02-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,52
+155,2025-02-24,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,52
+156,2025-02-25,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,52
+157,2025-02-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,53
+158,2025-02-25,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,53
+159,2025-02-26,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,53
+160,2025-02-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,54
+161,2025-02-26,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,54
+162,2025-02-27,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,54
+163,2025-02-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,55
+164,2025-02-27,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,55
+165,2025-02-28,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,55
+166,2025-02-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,56
+167,2025-02-28,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,56
+168,2025-03-01,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,56
+169,2025-02-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,57
+170,2025-03-01,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,57
+171,2025-03-02,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,57
+172,2025-03-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,58
+173,2025-03-02,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,58
+174,2025-03-03,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,58
+175,2025-03-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,59
+176,2025-03-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,59
+177,2025-03-04,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,59
+178,2025-03-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,60
+179,2025-03-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,60
+180,2025-03-05,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,60
+181,2025-03-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,61
+182,2025-03-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,61
+183,2025-03-06,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,61
+184,2025-03-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,62
+185,2025-03-06,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,62
+186,2025-03-07,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,62
+187,2025-03-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,63
+188,2025-03-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,63
+189,2025-03-08,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,63
+190,2025-03-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,64
+191,2025-03-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,64
+192,2025-03-09,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,64
+193,2025-03-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,65
+194,2025-03-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,65
+195,2025-03-10,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,65
+196,2025-03-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,66
+197,2025-03-10,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,66
+198,2025-03-11,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,66
+199,2025-03-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,67
+200,2025-03-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,67
+201,2025-03-12,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,67
+202,2025-03-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,68
+203,2025-03-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,68
+204,2025-03-13,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,68
+205,2025-03-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,69
+206,2025-03-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,69
+207,2025-03-14,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,69
+208,2025-03-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,70
+209,2025-03-14,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,70
+210,2025-03-15,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,70
+211,2025-03-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,71
+212,2025-03-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,71
+213,2025-03-16,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,71
+214,2025-03-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,72
+215,2025-03-16,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,72
+216,2025-03-17,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,72
+217,2025-03-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,73
+218,2025-03-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,73
+219,2025-03-18,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,73
+220,2025-03-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,74
+221,2025-03-18,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,74
+222,2025-03-19,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,74
+223,2025-03-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,75
+224,2025-03-19,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,75
+225,2025-03-20,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,75
+226,2025-03-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,76
+227,2025-03-20,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,76
+228,2025-03-21,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,76
+229,2025-03-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,77
+230,2025-03-21,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,77
+231,2025-03-22,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,77
+232,2025-03-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,78
+233,2025-03-22,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,78
+234,2025-03-23,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,78
+235,2025-03-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,79
+236,2025-03-23,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,79
+237,2025-03-24,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,79
+238,2025-03-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,80
+239,2025-03-24,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,80
+240,2025-03-25,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,80
+241,2025-03-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,81
+242,2025-03-25,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,81
+243,2025-03-26,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,81
+244,2025-03-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,82
+245,2025-03-26,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,82
+246,2025-03-27,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,82
+247,2025-03-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,83
+248,2025-03-27,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,83
+249,2025-03-28,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,83
+250,2025-03-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,84
+251,2025-03-28,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,84
+252,2025-03-29,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,84
+253,2025-03-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,85
+254,2025-03-29,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,85
+255,2025-03-30,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,85
+256,2025-03-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,86
+257,2025-03-30,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,86
+258,2025-03-31,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,86
+259,2025-03-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,87
+260,2025-03-31,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,87
+261,2025-04-01,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,87
+262,2025-03-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,88
+263,2025-04-01,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,88
+264,2025-04-02,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,88
+265,2025-04-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,89
+266,2025-04-02,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,89
+267,2025-04-03,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,89
+268,2025-04-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,90
+269,2025-04-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,90
+270,2025-04-04,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,90
+271,2025-04-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,91
+272,2025-04-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,91
+273,2025-04-05,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,91
+274,2025-04-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,92
+275,2025-04-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,92
+276,2025-04-06,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,92
+277,2025-04-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,93
+278,2025-04-06,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,93
+279,2025-04-07,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,93
+280,2025-04-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,94
+281,2025-04-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,94
+282,2025-04-08,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,94
+283,2025-04-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,95
+284,2025-04-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,95
+285,2025-04-09,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,95
+286,2025-04-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,96
+287,2025-04-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,96
+288,2025-04-10,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,96
+289,2025-04-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,97
+290,2025-04-10,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,97
+291,2025-04-11,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,97
+292,2025-04-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,98
+293,2025-04-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,98
+294,2025-04-12,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,98
+295,2025-04-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,99
+296,2025-04-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,99
+297,2025-04-13,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,99
+298,2025-04-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,100
+299,2025-04-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,100
+300,2025-04-14,ENTREGUE,Centro de distribuicao,Evento sintetico; granularidade diaria,100
+301,2025-04-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,101
+302,2025-04-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,101
+303,2025-04-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,102
+304,2025-04-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,102
+305,2025-04-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,103
+306,2025-04-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,103
+307,2025-04-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,104
+308,2025-04-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,104
+309,2025-04-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,105
+310,2025-04-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,105
+311,2025-04-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,106
+312,2025-04-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,106
+313,2025-04-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,107
+314,2025-04-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,107
+315,2025-04-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,108
+316,2025-04-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,108
+317,2025-04-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,109
+318,2025-04-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,109
+319,2025-04-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,110
+320,2025-04-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,110
+321,2025-04-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,111
+322,2025-04-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,111
+323,2025-04-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,112
+324,2025-04-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,112
+325,2025-04-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,113
+326,2025-04-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,113
+327,2025-04-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,114
+328,2025-04-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,114
+329,2025-04-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,115
+330,2025-04-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,115
+331,2025-04-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,116
+332,2025-04-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,116
+333,2025-04-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,117
+334,2025-04-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,117
+335,2025-04-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,118
+336,2025-05-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,118
+337,2025-05-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,119
+338,2025-05-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,119
+339,2025-05-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,120
+340,2025-05-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,120
+341,2025-05-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,121
+342,2025-05-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,121
+343,2025-05-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,122
+344,2025-05-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,122
+345,2025-05-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,123
+346,2025-05-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,123
+347,2025-05-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,124
+348,2025-05-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,124
+349,2025-05-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,125
+350,2025-05-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,125
+351,2025-05-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,126
+352,2025-05-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,126
+353,2025-05-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,127
+354,2025-05-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,127
+355,2025-05-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,128
+356,2025-05-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,128
+357,2025-05-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,129
+358,2025-05-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,129
+359,2025-05-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,130
+360,2025-05-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,130
+361,2025-05-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,131
+362,2025-05-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,131
+363,2025-05-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,132
+364,2025-05-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,132
+365,2025-05-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,133
+366,2025-05-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,133
+367,2025-05-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,134
+368,2025-05-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,134
+369,2025-05-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,135
+370,2025-05-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,135
+371,2025-05-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,136
+372,2025-05-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,136
+373,2025-05-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,137
+374,2025-05-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,137
+375,2025-05-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,138
+376,2025-05-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,138
+377,2025-05-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,139
+378,2025-05-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,139
+379,2025-05-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,140
+380,2025-05-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,140
+381,2025-05-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,141
+382,2025-05-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,141
+383,2025-05-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,142
+384,2025-05-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,142
+385,2025-05-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,143
+386,2025-05-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,143
+387,2025-05-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,144
+388,2025-05-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,144
+389,2025-05-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,145
+390,2025-05-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,145
+391,2025-05-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,146
+392,2025-05-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,146
+393,2025-05-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,147
+394,2025-05-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,147
+395,2025-05-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,148
+396,2025-05-31,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,148
+397,2025-05-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,149
+398,2025-06-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,149
+399,2025-06-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,150
+400,2025-06-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,150
+401,2025-06-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,151
+402,2025-06-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,151
+403,2025-06-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,152
+404,2025-06-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,152
+405,2025-06-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,153
+406,2025-06-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,153
+407,2025-06-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,154
+408,2025-06-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,154
+409,2025-06-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,155
+410,2025-06-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,155
+411,2025-06-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,156
+412,2025-06-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,156
+413,2025-06-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,157
+414,2025-06-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,157
+415,2025-06-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,158
+416,2025-06-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,158
+417,2025-06-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,159
+418,2025-06-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,159
+419,2025-06-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,160
+420,2025-06-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,160
+421,2025-06-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,161
+422,2025-06-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,161
+423,2025-06-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,162
+424,2025-06-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,162
+425,2025-06-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,163
+426,2025-06-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,163
+427,2025-06-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,164
+428,2025-06-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,164
+429,2025-06-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,165
+430,2025-06-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,165
+431,2025-06-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,166
+432,2025-06-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,166
+433,2025-06-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,167
+434,2025-06-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,167
+435,2025-06-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,168
+436,2025-06-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,168
+437,2025-06-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,169
+438,2025-06-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,169
+439,2025-06-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,170
+440,2025-06-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,170
+441,2025-06-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,171
+442,2025-06-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,171
+443,2025-06-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,172
+444,2025-06-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,172
+445,2025-06-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,173
+446,2025-06-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,173
+447,2025-06-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,174
+448,2025-06-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,174
+449,2025-06-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,175
+450,2025-06-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,175
+451,2025-06-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,176
+452,2025-06-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,176
+453,2025-06-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,177
+454,2025-06-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,177
+455,2025-06-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,178
+456,2025-06-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,178
+457,2025-06-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,179
+458,2025-07-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,179
+459,2025-07-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,180
+460,2025-07-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,180
+461,2025-07-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,181
+462,2025-07-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,181
+463,2025-07-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,182
+464,2025-07-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,182
+465,2025-07-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,183
+466,2025-07-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,183
+467,2025-07-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,184
+468,2025-07-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,184
+469,2025-07-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,185
+470,2025-07-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,185
+471,2025-07-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,186
+472,2025-07-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,186
+473,2025-07-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,187
+474,2025-07-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,187
+475,2025-07-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,188
+476,2025-07-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,188
+477,2025-07-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,189
+478,2025-07-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,189
+479,2025-07-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,190
+480,2025-07-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,190
+481,2025-07-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,191
+482,2025-07-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,191
+483,2025-07-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,192
+484,2025-07-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,192
+485,2025-07-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,193
+486,2025-07-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,193
+487,2025-07-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,194
+488,2025-07-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,194
+489,2025-07-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,195
+490,2025-07-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,195
+491,2025-07-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,196
+492,2025-07-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,196
+493,2025-07-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,197
+494,2025-07-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,197
+495,2025-07-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,198
+496,2025-07-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,198
+497,2025-07-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,199
+498,2025-07-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,199
+499,2025-07-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,200
+500,2025-07-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,200
+501,2025-07-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,201
+502,2025-07-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,201
+503,2025-07-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,202
+504,2025-07-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,202
+505,2025-07-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,203
+506,2025-07-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,203
+507,2025-07-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,204
+508,2025-07-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,204
+509,2025-07-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,205
+510,2025-07-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,205
+511,2025-07-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,206
+512,2025-07-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,206
+513,2025-07-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,207
+514,2025-07-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,207
+515,2025-07-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,208
+516,2025-07-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,208
+517,2025-07-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,209
+518,2025-07-31,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,209
+519,2025-07-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,210
+520,2025-08-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,210
+521,2025-08-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,211
+522,2025-08-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,211
+523,2025-08-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,212
+524,2025-08-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,212
+525,2025-08-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,213
+526,2025-08-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,213
+527,2025-08-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,214
+528,2025-08-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,214
+529,2025-08-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,215
+530,2025-08-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,215
+531,2025-08-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,216
+532,2025-08-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,216
+533,2025-08-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,217
+534,2025-08-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,217
+535,2025-08-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,218
+536,2025-08-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,218
+537,2025-08-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,219
+538,2025-08-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,219
+539,2025-08-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,220
+540,2025-08-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,220
+541,2025-08-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,221
+542,2025-08-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,221
+543,2025-08-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,222
+544,2025-08-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,222
+545,2025-08-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,223
+546,2025-08-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,223
+547,2025-08-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,224
+548,2025-08-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,224
+549,2025-08-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,225
+550,2025-08-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,225
+551,2025-08-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,226
+552,2025-08-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,226
+553,2025-08-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,227
+554,2025-08-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,227
+555,2025-08-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,228
+556,2025-08-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,228
+557,2025-08-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,229
+558,2025-08-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,229
+559,2025-08-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,230
+560,2025-08-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,230
+561,2025-08-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,231
+562,2025-08-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,231
+563,2025-08-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,232
+564,2025-08-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,232
+565,2025-08-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,233
+566,2025-08-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,233
+567,2025-08-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,234
+568,2025-08-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,234
+569,2025-08-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,235
+570,2025-08-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,235
+571,2025-08-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,236
+572,2025-08-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,236
+573,2025-08-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,237
+574,2025-08-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,237
+575,2025-08-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,238
+576,2025-08-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,238
+577,2025-08-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,239
+578,2025-08-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,239
+579,2025-08-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,240
+580,2025-08-31,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,240
+581,2025-08-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,241
+582,2025-09-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,241
+583,2025-09-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,242
+584,2025-09-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,242
+585,2025-09-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,243
+586,2025-09-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,243
+587,2025-09-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,244
+588,2025-09-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,244
+589,2025-09-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,245
+590,2025-09-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,245
+591,2025-09-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,246
+592,2025-09-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,246
+593,2025-09-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,247
+594,2025-09-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,247
+595,2025-09-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,248
+596,2025-09-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,248
+597,2025-09-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,249
+598,2025-09-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,249
+599,2025-09-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,250
+600,2025-09-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,250
+601,2025-09-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,251
+602,2025-09-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,251
+603,2025-09-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,252
+604,2025-09-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,252
+605,2025-09-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,253
+606,2025-09-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,253
+607,2025-09-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,254
+608,2025-09-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,254
+609,2025-09-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,255
+610,2025-09-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,255
+611,2025-09-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,256
+612,2025-09-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,256
+613,2025-09-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,257
+614,2025-09-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,257
+615,2025-09-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,258
+616,2025-09-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,258
+617,2025-09-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,259
+618,2025-09-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,259
+619,2025-09-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,260
+620,2025-09-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,260
+621,2025-09-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,261
+622,2025-09-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,261
+623,2025-09-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,262
+624,2025-09-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,262
+625,2025-09-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,263
+626,2025-09-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,263
+627,2025-09-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,264
+628,2025-09-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,264
+629,2025-09-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,265
+630,2025-09-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,265
+631,2025-09-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,266
+632,2025-09-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,266
+633,2025-09-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,267
+634,2025-09-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,267
+635,2025-09-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,268
+636,2025-09-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,268
+637,2025-09-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,269
+638,2025-09-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,269
+639,2025-09-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,270
+640,2025-09-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,270
+641,2025-09-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,271
+642,2025-09-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,271
+643,2025-09-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,272
+644,2025-09-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,272
+645,2025-09-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,273
+646,2025-09-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,273
+647,2025-09-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,274
+648,2025-09-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,274
+649,2025-09-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,275
+650,2025-09-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,275
+651,2025-09-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,276
+652,2025-09-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,276
+653,2025-09-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,277
+654,2025-09-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,277
+655,2025-09-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,278
+656,2025-09-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,278
+657,2025-09-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,279
+658,2025-09-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,279
+659,2025-09-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,280
+660,2025-09-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,280
+661,2025-09-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,281
+662,2025-09-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,281
+663,2025-09-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,282
+664,2025-09-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,282
+665,2025-09-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,283
+666,2025-09-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,283
+667,2025-09-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,284
+668,2025-09-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,284
+669,2025-09-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,285
+670,2025-09-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,285
+671,2025-09-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,286
+672,2025-09-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,286
+673,2025-09-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,287
+674,2025-09-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,287
+675,2025-09-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,288
+676,2025-09-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,288
+677,2025-09-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,289
+678,2025-09-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,289
+679,2025-09-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,290
+680,2025-09-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,290
+681,2025-09-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,291
+682,2025-10-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,291
+683,2025-09-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,292
+684,2025-10-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,292
+685,2025-10-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,293
+686,2025-10-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,293
+687,2025-10-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,294
+688,2025-10-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,294
+689,2025-10-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,295
+690,2025-10-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,295
+691,2025-10-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,296
+692,2025-10-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,296
+693,2025-10-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,297
+694,2025-10-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,297
+695,2025-10-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,298
+696,2025-10-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,298
+697,2025-10-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,299
+698,2025-10-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,299
+699,2025-10-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,300
+700,2025-10-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,300
+701,2025-10-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,301
+702,2025-10-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,301
+703,2025-10-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,302
+704,2025-10-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,302
+705,2025-10-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,303
+706,2025-10-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,303
+707,2025-10-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,304
+708,2025-10-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,304
+709,2025-10-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,305
+710,2025-10-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,305
+711,2025-10-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,306
+712,2025-10-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,306
+713,2025-10-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,307
+714,2025-10-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,307
+715,2025-10-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,308
+716,2025-10-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,308
+717,2025-10-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,309
+718,2025-10-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,309
+719,2025-10-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,310
+720,2025-10-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,310
+721,2025-10-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,311
+722,2025-10-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,311
+723,2025-10-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,312
+724,2025-10-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,312
+725,2025-10-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,313
+726,2025-10-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,313
+727,2025-10-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,314
+728,2025-10-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,314
+729,2025-10-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,315
+730,2025-10-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,315
+731,2025-10-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,316
+732,2025-10-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,316
+733,2025-10-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,317
+734,2025-10-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,317
+735,2025-10-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,318
+736,2025-10-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,318
+737,2025-10-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,319
+738,2025-10-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,319
+739,2025-10-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,320
+740,2025-10-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,320
+741,2025-10-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,321
+742,2025-10-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,321
+743,2025-10-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,322
+744,2025-10-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,322
+745,2025-10-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,323
+746,2025-10-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,323
+747,2025-10-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,324
+748,2025-10-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,324
+749,2025-10-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,325
+750,2025-10-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,325
+751,2025-10-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,326
+752,2025-10-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,326
+753,2025-10-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,327
+754,2025-10-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,327
+755,2025-10-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,328
+756,2025-10-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,328
+757,2025-10-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,329
+758,2025-10-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,329
+759,2025-10-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,330
+760,2025-10-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,330
+761,2025-10-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,331
+762,2025-10-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,331
+763,2025-10-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,332
+764,2025-10-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,332
+765,2025-10-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,333
+766,2025-10-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,333
+767,2025-10-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,334
+768,2025-10-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,334
+769,2025-10-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,335
+770,2025-10-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,335
+771,2025-10-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,336
+772,2025-10-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,336
+773,2025-10-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,337
+774,2025-10-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,337
+775,2025-10-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,338
+776,2025-10-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,338
+777,2025-10-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,339
+778,2025-10-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,339
+779,2025-10-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,340
+780,2025-10-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,340
+781,2025-10-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,341
+782,2025-10-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,341
+783,2025-10-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,342
+784,2025-10-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,342
+785,2025-10-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,343
+786,2025-10-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,343
+787,2025-10-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,344
+788,2025-10-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,344
+789,2025-10-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,345
+790,2025-10-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,345
+791,2025-10-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,346
+792,2025-10-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,346
+793,2025-10-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,347
+794,2025-10-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,347
+795,2025-10-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,348
+796,2025-10-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,348
+797,2025-10-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,349
+798,2025-10-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,349
+799,2025-10-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,350
+800,2025-10-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,350
+801,2025-10-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,351
+802,2025-10-31,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,351
+803,2025-10-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,352
+804,2025-10-31,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,352
+805,2025-10-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,353
+806,2025-11-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,353
+807,2025-10-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,354
+808,2025-11-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,354
+809,2025-11-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,355
+810,2025-11-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,355
+811,2025-11-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,356
+812,2025-11-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,356
+813,2025-11-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,357
+814,2025-11-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,357
+815,2025-11-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,358
+816,2025-11-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,358
+817,2025-11-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,359
+818,2025-11-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,359
+819,2025-11-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,360
+820,2025-11-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,360
+821,2025-11-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,361
+822,2025-11-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,361
+823,2025-11-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,362
+824,2025-11-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,362
+825,2025-11-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,363
+826,2025-11-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,363
+827,2025-11-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,364
+828,2025-11-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,364
+829,2025-11-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,365
+830,2025-11-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,365
+831,2025-11-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,366
+832,2025-11-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,366
+833,2025-11-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,367
+834,2025-11-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,367
+835,2025-11-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,368
+836,2025-11-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,368
+837,2025-11-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,369
+838,2025-11-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,369
+839,2025-11-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,370
+840,2025-11-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,370
+841,2025-11-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,371
+842,2025-11-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,371
+843,2025-11-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,372
+844,2025-11-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,372
+845,2025-11-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,373
+846,2025-11-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,373
+847,2025-11-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,374
+848,2025-11-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,374
+849,2025-11-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,375
+850,2025-11-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,375
+851,2025-11-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,376
+852,2025-11-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,376
+853,2025-11-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,377
+854,2025-11-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,377
+855,2025-11-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,378
+856,2025-11-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,378
+857,2025-11-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,379
+858,2025-11-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,379
+859,2025-11-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,380
+860,2025-11-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,380
+861,2025-11-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,381
+862,2025-11-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,381
+863,2025-11-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,382
+864,2025-11-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,382
+865,2025-11-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,383
+866,2025-11-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,383
+867,2025-11-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,384
+868,2025-11-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,384
+869,2025-11-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,385
+870,2025-11-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,385
+871,2025-11-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,386
+872,2025-11-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,386
+873,2025-11-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,387
+874,2025-11-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,387
+875,2025-11-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,388
+876,2025-11-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,388
+877,2025-11-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,389
+878,2025-11-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,389
+879,2025-11-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,390
+880,2025-11-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,390
+881,2025-11-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,391
+882,2025-11-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,391
+883,2025-11-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,392
+884,2025-11-20,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,392
+885,2025-11-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,393
+886,2025-11-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,393
+887,2025-11-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,394
+888,2025-11-21,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,394
+889,2025-11-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,395
+890,2025-11-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,395
+891,2025-11-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,396
+892,2025-11-22,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,396
+893,2025-11-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,397
+894,2025-11-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,397
+895,2025-11-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,398
+896,2025-11-23,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,398
+897,2025-11-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,399
+898,2025-11-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,399
+899,2025-11-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,400
+900,2025-11-24,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,400
+901,2025-11-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,401
+902,2025-11-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,401
+903,2025-11-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,402
+904,2025-11-25,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,402
+905,2025-11-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,403
+906,2025-11-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,403
+907,2025-11-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,404
+908,2025-11-26,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,404
+909,2025-11-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,405
+910,2025-11-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,405
+911,2025-11-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,406
+912,2025-11-27,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,406
+913,2025-11-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,407
+914,2025-11-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,407
+915,2025-11-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,408
+916,2025-11-28,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,408
+917,2025-11-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,409
+918,2025-11-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,409
+919,2025-11-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,410
+920,2025-11-29,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,410
+921,2025-11-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,411
+922,2025-11-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,411
+923,2025-11-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,412
+924,2025-11-30,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,412
+925,2025-11-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,413
+926,2025-12-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,413
+927,2025-11-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,414
+928,2025-12-01,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,414
+929,2025-12-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,415
+930,2025-12-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,415
+931,2025-12-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,416
+932,2025-12-02,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,416
+933,2025-12-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,417
+934,2025-12-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,417
+935,2025-12-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,418
+936,2025-12-03,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,418
+937,2025-12-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,419
+938,2025-12-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,419
+939,2025-12-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,420
+940,2025-12-04,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,420
+941,2025-12-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,421
+942,2025-12-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,421
+943,2025-12-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,422
+944,2025-12-05,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,422
+945,2025-12-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,423
+946,2025-12-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,423
+947,2025-12-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,424
+948,2025-12-06,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,424
+949,2025-12-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,425
+950,2025-12-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,425
+951,2025-12-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,426
+952,2025-12-07,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,426
+953,2025-12-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,427
+954,2025-12-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,427
+955,2025-12-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,428
+956,2025-12-08,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,428
+957,2025-12-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,429
+958,2025-12-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,429
+959,2025-12-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,430
+960,2025-12-09,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,430
+961,2025-12-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,431
+962,2025-12-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,431
+963,2025-12-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,432
+964,2025-12-10,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,432
+965,2025-12-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,433
+966,2025-12-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,433
+967,2025-12-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,434
+968,2025-12-11,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,434
+969,2025-12-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,435
+970,2025-12-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,435
+971,2025-12-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,436
+972,2025-12-12,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,436
+973,2025-12-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,437
+974,2025-12-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,437
+975,2025-12-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,438
+976,2025-12-13,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,438
+977,2025-12-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,439
+978,2025-12-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,439
+979,2025-12-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,440
+980,2025-12-14,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,440
+981,2025-12-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,441
+982,2025-12-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,441
+983,2025-12-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,442
+984,2025-12-15,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,442
+985,2025-12-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,443
+986,2025-12-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,443
+987,2025-12-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,444
+988,2025-12-16,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,444
+989,2025-12-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,445
+990,2025-12-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,445
+991,2025-12-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,446
+992,2025-12-17,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,446
+993,2025-12-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,447
+994,2025-12-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,447
+995,2025-12-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,448
+996,2025-12-18,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,448
+997,2025-12-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,449
+998,2025-12-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,449
+999,2025-12-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,450
+1000,2025-12-19,ENTREGUE,Em rota,Evento sintetico; granularidade diaria,450
+1001,2025-12-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,451
+1002,2025-12-20,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,451
+1003,2025-12-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,452
+1004,2025-12-21,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,452
+1005,2025-12-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,453
+1006,2025-12-22,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,453
+1007,2025-12-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,454
+1008,2025-12-23,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,454
+1009,2025-12-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,455
+1010,2025-12-24,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,455
+1011,2025-12-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,456
+1012,2025-12-25,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,456
+1013,2025-12-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,457
+1014,2025-12-26,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,457
+1015,2025-12-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,458
+1016,2025-12-27,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,458
+1017,2025-12-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,459
+1018,2025-12-28,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,459
+1019,2025-12-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,460
+1020,2025-12-29,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,460
+1021,2025-12-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,461
+1022,2025-12-30,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,461
+1023,2025-12-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,462
+1024,2025-12-31,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,462
+1025,2025-12-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,463
+1026,2026-01-01,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,463
+1027,2026-01-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,464
+1028,2026-01-02,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,464
+1029,2026-01-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,465
+1030,2026-01-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,465
+1031,2026-01-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,466
+1032,2026-01-04,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,466
+1033,2026-01-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,467
+1034,2026-01-05,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,467
+1035,2026-01-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,468
+1036,2026-01-06,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,468
+1037,2026-01-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,469
+1038,2026-01-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,469
+1039,2026-01-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,470
+1040,2026-01-08,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,470
+1041,2026-01-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,471
+1042,2026-01-09,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,471
+1043,2026-01-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,472
+1044,2026-01-10,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,472
+1045,2026-01-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,473
+1046,2026-01-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,473
+1047,2026-01-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,474
+1048,2026-01-12,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,474
+1049,2026-01-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,475
+1050,2026-01-13,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,475
+1051,2026-01-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,476
+1052,2026-01-14,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,476
+1053,2026-01-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,477
+1054,2026-01-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,477
+1055,2026-01-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,478
+1056,2026-01-16,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,478
+1057,2026-01-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,479
+1058,2026-01-17,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,479
+1059,2026-01-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,480
+1060,2026-01-18,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,480
+1061,2026-01-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,481
+1062,2026-01-19,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,481
+1063,2026-01-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,482
+1064,2026-01-20,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,482
+1065,2026-01-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,483
+1066,2026-01-21,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,483
+1067,2026-01-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,484
+1068,2026-01-22,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,484
+1069,2026-01-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,485
+1070,2026-01-23,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,485
+1071,2026-01-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,486
+1072,2026-01-24,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,486
+1073,2026-01-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,487
+1074,2026-01-25,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,487
+1075,2026-01-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,488
+1076,2026-01-26,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,488
+1077,2026-01-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,489
+1078,2026-01-27,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,489
+1079,2026-01-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,490
+1080,2026-01-28,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,490
+1081,2026-01-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,491
+1082,2026-01-29,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,491
+1083,2026-01-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,492
+1084,2026-01-30,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,492
+1085,2026-01-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,493
+1086,2026-01-31,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,493
+1087,2026-01-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,494
+1088,2026-02-01,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,494
+1089,2026-02-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,495
+1090,2026-02-02,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,495
+1091,2026-02-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,496
+1092,2026-02-03,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,496
+1093,2026-02-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,497
+1094,2026-02-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,497
+1095,2026-02-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,498
+1096,2026-02-05,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,498
+1097,2026-02-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,499
+1098,2026-02-06,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,499
+1099,2026-02-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,500
+1100,2026-02-07,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,500
+1101,2026-02-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,501
+1102,2026-02-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,501
+1103,2026-02-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,502
+1104,2026-02-09,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,502
+1105,2026-02-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,503
+1106,2026-02-10,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,503
+1107,2026-02-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,504
+1108,2026-02-11,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,504
+1109,2026-02-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,505
+1110,2026-02-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,505
+1111,2026-02-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,506
+1112,2026-02-13,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,506
+1113,2026-02-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,507
+1114,2026-02-14,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,507
+1115,2026-02-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,508
+1116,2026-02-15,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,508
+1117,2026-02-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,509
+1118,2026-02-16,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,509
+1119,2026-02-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,510
+1120,2026-02-17,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,510
+1121,2026-02-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,511
+1122,2026-02-18,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,511
+1123,2026-02-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,512
+1124,2026-02-19,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,512
+1125,2026-02-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,513
+1126,2026-02-20,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,513
+1127,2026-02-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,514
+1128,2026-02-21,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,514
+1129,2026-02-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,515
+1130,2026-02-22,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,515
+1131,2026-02-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,516
+1132,2026-02-23,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,516
+1133,2026-02-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,517
+1134,2026-02-24,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,517
+1135,2026-02-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,518
+1136,2026-02-25,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,518
+1137,2026-02-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,519
+1138,2026-02-26,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,519
+1139,2026-02-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,520
+1140,2026-02-27,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,520
+1141,2026-02-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,521
+1142,2026-02-28,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,521
+1143,2026-02-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,522
+1144,2026-03-01,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,522
+1145,2026-03-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,523
+1146,2026-03-02,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,523
+1147,2026-03-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,524
+1148,2026-03-03,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,524
+1149,2026-03-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,525
+1150,2026-03-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,525
+1151,2026-03-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,526
+1152,2026-03-05,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,526
+1153,2026-03-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,527
+1154,2026-03-06,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,527
+1155,2026-03-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,528
+1156,2026-03-07,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,528
+1157,2026-03-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,529
+1158,2026-03-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,529
+1159,2026-03-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,530
+1160,2026-03-09,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,530
+1161,2026-03-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,531
+1162,2026-03-10,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,531
+1163,2026-03-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,532
+1164,2026-03-11,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,532
+1165,2026-03-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,533
+1166,2026-03-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,533
+1167,2026-03-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,534
+1168,2026-03-13,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,534
+1169,2026-03-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,535
+1170,2026-03-14,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,535
+1171,2026-03-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,536
+1172,2026-03-15,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,536
+1173,2026-03-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,537
+1174,2026-03-16,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,537
+1175,2026-03-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,538
+1176,2026-03-17,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,538
+1177,2026-03-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,539
+1178,2026-03-18,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,539
+1179,2026-03-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,540
+1180,2026-03-19,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,540
+1181,2026-03-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,541
+1182,2026-03-20,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,541
+1183,2026-03-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,542
+1184,2026-03-21,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,542
+1185,2026-03-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,543
+1186,2026-03-22,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,543
+1187,2026-03-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,544
+1188,2026-03-23,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,544
+1189,2026-03-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,545
+1190,2026-03-24,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,545
+1191,2026-03-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,546
+1192,2026-03-25,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,546
+1193,2026-03-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,547
+1194,2026-03-26,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,547
+1195,2026-03-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,548
+1196,2026-03-27,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,548
+1197,2026-03-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,549
+1198,2026-03-28,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,549
+1199,2026-03-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,550
+1200,2026-03-29,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,550
+1201,2026-03-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,551
+1202,2026-03-30,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,551
+1203,2026-03-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,552
+1204,2026-03-31,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,552
+1205,2026-03-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,553
+1206,2026-04-01,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,553
+1207,2026-04-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,554
+1208,2026-04-02,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,554
+1209,2026-04-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,555
+1210,2026-04-03,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,555
+1211,2026-04-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,556
+1212,2026-04-04,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,556
+1213,2026-04-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,557
+1214,2026-04-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,557
+1215,2026-04-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,558
+1216,2026-04-06,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,558
+1217,2026-04-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,559
+1218,2026-04-07,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,559
+1219,2026-04-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,560
+1220,2026-04-08,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,560
+1221,2026-04-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,561
+1222,2026-04-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,561
+1223,2026-04-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,562
+1224,2026-04-10,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,562
+1225,2026-04-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,563
+1226,2026-04-11,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,563
+1227,2026-04-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,564
+1228,2026-04-12,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,564
+1229,2026-04-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,565
+1230,2026-04-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,565
+1231,2026-04-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,566
+1232,2026-04-14,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,566
+1233,2026-04-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,567
+1234,2026-04-15,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,567
+1235,2026-04-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,568
+1236,2026-04-16,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,568
+1237,2026-04-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,569
+1238,2026-04-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,569
+1239,2026-04-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,570
+1240,2026-04-18,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,570
+1241,2026-04-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,571
+1242,2026-04-19,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,571
+1243,2026-04-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,572
+1244,2026-04-20,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,572
+1245,2026-04-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,573
+1246,2026-04-21,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,573
+1247,2026-04-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,574
+1248,2026-04-22,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,574
+1249,2026-04-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,575
+1250,2026-04-23,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,575
+1251,2026-04-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,576
+1252,2026-04-24,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,576
+1253,2026-04-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,577
+1254,2026-04-25,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,577
+1255,2026-04-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,578
+1256,2026-04-26,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,578
+1257,2026-04-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,579
+1258,2026-04-27,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,579
+1259,2026-04-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,580
+1260,2026-04-28,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,580
+1261,2026-04-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,581
+1262,2026-04-29,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,581
+1263,2026-04-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,582
+1264,2026-04-30,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,582
+1265,2026-04-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,583
+1266,2026-05-01,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,583
+1267,2026-05-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,584
+1268,2026-05-02,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,584
+1269,2026-05-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,585
+1270,2026-05-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,585
+1271,2026-05-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,586
+1272,2026-05-04,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,586
+1273,2026-05-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,587
+1274,2026-05-05,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,587
+1275,2026-05-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,588
+1276,2026-05-06,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,588
+1277,2026-05-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,589
+1278,2026-05-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,589
+1279,2026-05-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,590
+1280,2026-05-08,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,590
+1281,2026-05-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,591
+1282,2026-05-09,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,591
+1283,2026-05-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,592
+1284,2026-05-10,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,592
+1285,2026-05-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,593
+1286,2026-05-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,593
+1287,2026-05-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,594
+1288,2026-05-12,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,594
+1289,2026-05-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,595
+1290,2026-05-13,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,595
+1291,2026-05-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,596
+1292,2026-05-14,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,596
+1293,2026-05-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,597
+1294,2026-05-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,597
+1295,2026-05-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,598
+1296,2026-05-16,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,598
+1297,2026-05-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,599
+1298,2026-05-17,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,599
+1299,2026-05-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,600
+1300,2026-05-18,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,600
+1301,2026-05-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,601
+1302,2026-05-20,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,601
+1303,2026-05-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,602
+1304,2026-05-20,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,602
+1305,2026-05-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,603
+1306,2026-05-21,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,603
+1307,2026-05-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,604
+1308,2026-05-21,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,604
+1309,2026-05-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,605
+1310,2026-05-22,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,605
+1311,2026-05-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,606
+1312,2026-05-22,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,606
+1313,2026-05-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,607
+1314,2026-05-23,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,607
+1315,2026-05-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,608
+1316,2026-05-23,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,608
+1317,2026-05-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,609
+1318,2026-05-24,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,609
+1319,2026-05-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,610
+1320,2026-05-24,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,610
+1321,2026-05-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,611
+1322,2026-05-25,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,611
+1323,2026-05-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,612
+1324,2026-05-25,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,612
+1325,2026-05-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,613
+1326,2026-05-26,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,613
+1327,2026-05-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,614
+1328,2026-05-26,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,614
+1329,2026-05-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,615
+1330,2026-05-27,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,615
+1331,2026-05-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,616
+1332,2026-05-27,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,616
+1333,2026-05-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,617
+1334,2026-05-28,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,617
+1335,2026-05-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,618
+1336,2026-05-28,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,618
+1337,2026-05-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,619
+1338,2026-05-29,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,619
+1339,2026-05-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,620
+1340,2026-05-29,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,620
+1341,2026-05-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,621
+1342,2026-05-30,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,621
+1343,2026-05-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,622
+1344,2026-05-30,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,622
+1345,2026-05-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,623
+1346,2026-05-31,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,623
+1347,2026-05-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,624
+1348,2026-05-31,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,624
+1349,2026-05-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,625
+1350,2026-06-01,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,625
+1351,2026-05-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,626
+1352,2026-06-01,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,626
+1353,2026-06-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,627
+1354,2026-06-02,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,627
+1355,2026-06-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,628
+1356,2026-06-02,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,628
+1357,2026-06-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,629
+1358,2026-06-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,629
+1359,2026-06-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,630
+1360,2026-06-03,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,630
+1361,2026-06-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,631
+1362,2026-06-04,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,631
+1363,2026-06-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,632
+1364,2026-06-04,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,632
+1365,2026-06-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,633
+1366,2026-06-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,633
+1367,2026-06-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,634
+1368,2026-06-05,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,634
+1369,2026-06-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,635
+1370,2026-06-06,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,635
+1371,2026-06-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,636
+1372,2026-06-06,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,636
+1373,2026-06-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,637
+1374,2026-06-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,637
+1375,2026-06-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,638
+1376,2026-06-07,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,638
+1377,2026-06-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,639
+1378,2026-06-08,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,639
+1379,2026-06-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,640
+1380,2026-06-08,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,640
+1381,2026-06-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,641
+1382,2026-06-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,641
+1383,2026-06-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,642
+1384,2026-06-09,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,642
+1385,2026-06-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,643
+1386,2026-06-10,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,643
+1387,2026-06-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,644
+1388,2026-06-10,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,644
+1389,2026-06-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,645
+1390,2026-06-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,645
+1391,2026-06-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,646
+1392,2026-06-11,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,646
+1393,2026-06-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,647
+1394,2026-06-12,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,647
+1395,2026-06-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,648
+1396,2026-06-12,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,648
+1397,2026-06-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,649
+1398,2026-06-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,649
+1399,2026-06-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,650
+1400,2026-06-13,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,650
+1401,2026-06-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,651
+1402,2026-06-14,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,651
+1403,2026-06-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,652
+1404,2026-06-14,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,652
+1405,2026-06-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,653
+1406,2026-06-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,653
+1407,2026-06-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,654
+1408,2026-06-15,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,654
+1409,2026-06-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,655
+1410,2026-06-16,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,655
+1411,2026-06-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,656
+1412,2026-06-16,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,656
+1413,2026-06-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,657
+1414,2026-06-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,657
+1415,2026-06-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,658
+1416,2026-06-17,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,658
+1417,2026-06-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,659
+1418,2026-06-18,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,659
+1419,2026-06-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,660
+1420,2026-06-18,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,660
+1421,2026-06-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,661
+1422,2026-06-19,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,661
+1423,2026-06-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,662
+1424,2026-06-19,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,662
+1425,2026-06-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,663
+1426,2026-06-20,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,663
+1427,2026-06-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,664
+1428,2026-06-20,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,664
+1429,2026-06-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,665
+1430,2026-06-21,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,665
+1431,2026-06-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,666
+1432,2026-06-21,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,666
+1433,2026-06-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,667
+1434,2026-06-22,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,667
+1435,2026-06-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,668
+1436,2026-06-22,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,668
+1437,2026-06-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,669
+1438,2026-06-23,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,669
+1439,2026-06-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,670
+1440,2026-06-23,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,670
+1441,2026-06-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,671
+1442,2026-06-24,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,671
+1443,2026-06-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,672
+1444,2026-06-24,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,672
+1445,2026-06-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,673
+1446,2026-06-25,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,673
+1447,2026-06-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,674
+1448,2026-06-25,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,674
+1449,2026-06-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,675
+1450,2026-06-26,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,675
+1451,2026-06-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,676
+1452,2026-06-26,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,676
+1453,2026-06-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,677
+1454,2026-06-27,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,677
+1455,2026-06-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,678
+1456,2026-06-27,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,678
+1457,2026-06-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,679
+1458,2026-06-28,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,679
+1459,2026-06-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,680
+1460,2026-06-28,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,680
+1461,2026-06-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,681
+1462,2026-06-29,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,681
+1463,2026-06-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,682
+1464,2026-06-29,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,682
+1465,2026-06-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,683
+1466,2026-06-30,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,683
+1467,2026-06-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,684
+1468,2026-06-30,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,684
+1469,2026-06-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,685
+1470,2026-07-01,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,685
+1471,2026-06-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,686
+1472,2026-07-01,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,686
+1473,2026-07-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,687
+1474,2026-07-02,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,687
+1475,2026-07-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,688
+1476,2026-07-02,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,688
+1477,2026-07-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,689
+1478,2026-07-03,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,689
+1479,2026-07-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,690
+1480,2026-07-03,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,690
+1481,2026-07-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,691
+1482,2026-07-04,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,691
+1483,2026-07-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,692
+1484,2026-07-04,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,692
+1485,2026-07-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,693
+1486,2026-07-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,693
+1487,2026-07-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,694
+1488,2026-07-05,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,694
+1489,2026-07-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,695
+1490,2026-07-06,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,695
+1491,2026-07-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,696
+1492,2026-07-06,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,696
+1493,2026-07-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,697
+1494,2026-07-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,697
+1495,2026-07-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,698
+1496,2026-07-07,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,698
+1497,2026-07-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,699
+1498,2026-07-08,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,699
+1499,2026-07-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,700
+1500,2026-07-08,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,700
+1501,2026-07-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,701
+1502,2026-07-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,701
+1503,2026-07-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,702
+1504,2026-07-09,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,702
+1505,2026-07-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,703
+1506,2026-07-10,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,703
+1507,2026-07-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,704
+1508,2026-07-10,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,704
+1509,2026-07-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,705
+1510,2026-07-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,705
+1511,2026-07-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,706
+1512,2026-07-11,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,706
+1513,2026-07-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,707
+1514,2026-07-12,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,707
+1515,2026-07-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,708
+1516,2026-07-12,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,708
+1517,2026-07-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,709
+1518,2026-07-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,709
+1519,2026-07-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,710
+1520,2026-07-13,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,710
+1521,2026-07-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,711
+1522,2026-07-14,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,711
+1523,2026-07-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,712
+1524,2026-07-14,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,712
+1525,2026-07-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,713
+1526,2026-07-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,713
+1527,2026-07-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,714
+1528,2026-07-15,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,714
+1529,2026-07-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,715
+1530,2026-07-16,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,715
+1531,2026-07-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,716
+1532,2026-07-16,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,716
+1533,2026-07-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,717
+1534,2026-07-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,717
+1535,2026-07-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,718
+1536,2026-07-17,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,718
+1537,2026-07-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,719
+1538,2026-07-18,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,719
+1539,2026-07-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,720
+1540,2026-07-18,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,720
+1541,2025-01-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,721
+1542,2025-01-05,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,721
+1543,2025-01-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,722
+1544,2025-01-05,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,722
+1545,2025-01-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,723
+1546,2025-01-06,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,723
+1547,2025-01-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,724
+1548,2025-01-06,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,724
+1549,2025-01-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,725
+1550,2025-01-07,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,725
+1551,2025-01-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,726
+1552,2025-01-07,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,726
+1553,2025-01-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,727
+1554,2025-01-08,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,727
+1555,2025-01-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,728
+1556,2025-01-08,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,728
+1557,2025-01-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,729
+1558,2025-01-09,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,729
+1559,2025-01-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,730
+1560,2025-01-09,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,730
+1561,2025-01-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,731
+1562,2025-01-10,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,731
+1563,2025-01-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,732
+1564,2025-01-10,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,732
+1565,2025-01-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,733
+1566,2025-01-11,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,733
+1567,2025-01-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,734
+1568,2025-01-11,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,734
+1569,2025-01-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,735
+1570,2025-01-12,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,735
+1571,2025-01-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,736
+1572,2025-01-12,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,736
+1573,2025-01-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,737
+1574,2025-01-13,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,737
+1575,2025-01-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,738
+1576,2025-01-13,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,738
+1577,2025-01-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,739
+1578,2025-01-14,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,739
+1579,2025-01-13,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,740
+1580,2025-01-14,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,740
+1581,2025-01-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,741
+1582,2025-01-15,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,741
+1583,2025-01-14,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,742
+1584,2025-01-15,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,742
+1585,2025-01-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,743
+1586,2025-01-16,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,743
+1587,2025-01-15,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,744
+1588,2025-01-16,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,744
+1589,2025-01-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,745
+1590,2025-01-17,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,745
+1591,2025-01-16,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,746
+1592,2025-01-17,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,746
+1593,2025-01-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,747
+1594,2025-01-18,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,747
+1595,2025-01-17,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,748
+1596,2025-01-18,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,748
+1597,2025-01-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,749
+1598,2025-01-19,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,749
+1599,2025-01-18,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,750
+1600,2025-01-19,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,750
+1601,2025-01-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,751
+1602,2025-01-20,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,751
+1603,2025-01-19,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,752
+1604,2025-01-20,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,752
+1605,2025-01-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,753
+1606,2025-01-21,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,753
+1607,2025-01-20,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,754
+1608,2025-01-21,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,754
+1609,2025-01-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,755
+1610,2025-01-22,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,755
+1611,2025-01-21,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,756
+1612,2025-01-22,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,756
+1613,2025-01-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,757
+1614,2025-01-23,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,757
+1615,2025-01-22,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,758
+1616,2025-01-23,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,758
+1617,2025-01-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,759
+1618,2025-01-24,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,759
+1619,2025-01-23,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,760
+1620,2025-01-24,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,760
+1621,2025-01-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,761
+1622,2025-01-25,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,761
+1623,2025-01-24,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,762
+1624,2025-01-25,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,762
+1625,2025-01-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,763
+1626,2025-01-26,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,763
+1627,2025-01-25,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,764
+1628,2025-01-26,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,764
+1629,2025-01-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,765
+1630,2025-01-27,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,765
+1631,2025-01-26,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,766
+1632,2025-01-27,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,766
+1633,2025-01-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,767
+1634,2025-01-28,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,767
+1635,2025-01-27,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,768
+1636,2025-01-28,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,768
+1637,2025-01-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,769
+1638,2025-01-29,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,769
+1639,2025-01-28,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,770
+1640,2025-01-29,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,770
+1641,2025-01-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,771
+1642,2025-01-30,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,771
+1643,2025-01-29,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,772
+1644,2025-01-30,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,772
+1645,2025-01-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,773
+1646,2025-01-31,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,773
+1647,2025-01-30,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,774
+1648,2025-01-31,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,774
+1649,2025-01-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,775
+1650,2025-02-01,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,775
+1651,2025-01-31,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,776
+1652,2025-02-01,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,776
+1653,2025-02-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,777
+1654,2025-02-02,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,777
+1655,2025-02-01,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,778
+1656,2025-02-02,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,778
+1657,2025-02-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,779
+1658,2025-02-03,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,779
+1659,2025-02-02,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,780
+1660,2025-02-03,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,780
+1661,2025-02-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,781
+1662,2025-02-04,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,781
+1663,2025-02-03,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,782
+1664,2025-02-04,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,782
+1665,2025-02-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,783
+1666,2025-02-05,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,783
+1667,2025-02-04,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,784
+1668,2025-02-05,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,784
+1669,2025-02-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,785
+1670,2025-02-06,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,785
+1671,2025-02-05,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,786
+1672,2025-02-06,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,786
+1673,2025-02-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,787
+1674,2025-02-07,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,787
+1675,2025-02-06,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,788
+1676,2025-02-07,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,788
+1677,2025-02-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,789
+1678,2025-02-08,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,789
+1679,2025-02-07,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,790
+1680,2025-02-08,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,790
+1681,2025-02-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,791
+1682,2025-02-09,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,791
+1683,2025-02-08,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,792
+1684,2025-02-09,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,792
+1685,2025-02-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,793
+1686,2025-02-10,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,793
+1687,2025-02-09,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,794
+1688,2025-02-10,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,794
+1689,2025-02-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,795
+1690,2025-02-11,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,795
+1691,2025-02-10,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,796
+1692,2025-02-11,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,796
+1693,2025-02-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,797
+1694,2025-02-12,EM_TRANSITO,Em rota,Evento sintetico; granularidade diaria,797
+1695,2025-02-11,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,798
+1696,2025-02-12,ATRASO_IDENTIFICADO,Em rota,Evento sintetico; granularidade diaria,798
+1697,2025-02-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,799
+1698,2025-02-13,EXTRAVIO_CONFIRMADO,Em rota,Evento sintetico; granularidade diaria,799
+1699,2025-02-12,COLETADA,Centro de distribuicao,Evento sintetico; granularidade diaria,800
+1700,2025-02-13,RETORNO_A_ORIGEM,Em rota,Evento sintetico; granularidade diaria,800

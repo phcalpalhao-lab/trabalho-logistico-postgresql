@@ -1,0 +1,191 @@
+{
+  "project": "projeto_logistico",
+  "schema": "public",
+  "profile": "full",
+  "seed": 20261008,
+  "period_start": "2025-01-01",
+  "period_end": "2026-09-30",
+  "row_counts": {
+    "t_armazem": 4,
+    "t_avaria": 40,
+    "t_categoria": 19,
+    "t_clientes": 999,
+    "t_compra": 200,
+    "t_devolucao": 60,
+    "t_entrega": 800,
+    "t_estoque": 400,
+    "t_fornecedor": 29,
+    "t_historico_entrega": 1700,
+    "t_inventario": 60,
+    "t_item_compra": 400,
+    "t_item_devolucao": 90,
+    "t_item_inventario": 400,
+    "t_item_pedido": 1750,
+    "t_movimentaÇÃo_estoque": 1000,
+    "t_pagamento": 840,
+    "t_pedidos": 900,
+    "t_produto": 300,
+    "t_transportadora": 9
+  },
+  "total_new_rows": 10000,
+  "existing_ids_snapshot": {
+    "t_armazem": [
+      1
+    ],
+    "t_categoria": [
+      1
+    ],
+    "t_clientes": [
+      1
+    ],
+    "t_fornecedor": [
+      1
+    ]
+  },
+  "planned_id_ranges": {
+    "t_armazem": {
+      "first": 2,
+      "last": 5,
+      "count": 4
+    },
+    "t_avaria": {
+      "first": 1,
+      "last": 40,
+      "count": 40
+    },
+    "t_categoria": {
+      "first": 2,
+      "last": 20,
+      "count": 19
+    },
+    "t_clientes": {
+      "first": 2,
+      "last": 1000,
+      "count": 999
+    },
+    "t_compra": {
+      "first": 1,
+      "last": 200,
+      "count": 200
+    },
+    "t_devolucao": {
+      "first": 1,
+      "last": 60,
+      "count": 60
+    },
+    "t_entrega": {
+      "first": 1,
+      "last": 800,
+      "count": 800
+    },
+    "t_estoque": {
+      "first": 1,
+      "last": 400,
+      "count": 400
+    },
+    "t_fornecedor": {
+      "first": 2,
+      "last": 30,
+      "count": 29
+    },
+    "t_historico_entrega": {
+      "first": 1,
+      "last": 1700,
+      "count": 1700
+    },
+    "t_inventario": {
+      "first": 1,
+      "last": 60,
+      "count": 60
+    },
+    "t_item_compra": {
+      "first": 1,
+      "last": 400,
+      "count": 400
+    },
+    "t_item_devolucao": {
+      "first": 1,
+      "last": 90,
+      "count": 90
+    },
+    "t_item_inventario": {
+      "first": 1,
+      "last": 400,
+      "count": 400
+    },
+    "t_item_pedido": {
+      "first": 1,
+      "last": 1750,
+      "count": 1750
+    },
+    "t_movimentaÇÃo_estoque": {
+      "first": 1,
+      "last": 1000,
+      "count": 1000
+    },
+    "t_pagamento": {
+      "first": 1,
+      "last": 840,
+      "count": 840
+    },
+    "t_pedidos": {
+      "first": 1,
+      "last": 900,
+      "count": 900
+    },
+    "t_produto": {
+      "first": 1,
+      "last": 300,
+      "count": 300
+    },
+    "t_transportadora": {
+      "first": 1,
+      "last": 9,
+      "count": 9
+    }
+  },
+  "id_ranges_are_reserved": false,
+  "schema_metadata_status": "CONFIRMED_A3_NO_DIVERGENCES",
+  "schema_metadata_confirmed_at": "2026-10-08",
+  "schema_metadata_note": "A3 returned 140 columns across 20 tables; names, types, limits, precision/scale, nullability, defaults, identity and generated properties matched the generator catalog.",
+  "offline_validation_passed": true,
+  "validation_results": {
+    "schema_and_exact_table_counts": "PASS",
+    "primary_keys_and_existing_id_collisions": "PASS",
+    "foreign_keys": "PASS",
+    "data_types_nullability_and_limits": "PASS",
+    "financial_totals_and_purchase_order_lines": "PASS",
+    "payments_and_logistics_release_RN_012": "PASS",
+    "order_completion_RN_014": "PASS",
+    "delivery_dates_and_history": "PASS",
+    "returns_order_ownership_RN_028": "PASS",
+    "cumulative_return_quantities_RN_029": "PASS",
+    "inventory_counts_and_warehouse_consistency": "PASS",
+    "stock_movement_reconciliation_and_damage_pairing": "PASS",
+    "transport_type_check_constraint": "PASS"
+  },
+  "validation_errors": [],
+  "csv_sha256": {
+    "t_armazem.csv": "a8933318ef74b980a4395a97357959378c852af98eadf735f3e1488801f0510b",
+    "t_avaria.csv": "ff583db6a2fb1182ad80d5a173ddbaf094f0a97ead96e6b577186c213adf98e0",
+    "t_categoria.csv": "a6bf48fc13df786d1212251563de151410fd972711faf9322a8186759d0ec393",
+    "t_clientes.csv": "d37abf7a9d9f030ba6a8a6d2a2ce49a0ff7f633d2900383c15d53533dd1c5142",
+    "t_compra.csv": "1795d625645945e687d05ca8c69cc5a40e25c9f0b714195e5030268087ada590",
+    "t_devolucao.csv": "9d8a83ee07fbd6f08b16629f3ea5b1c3ad5d9abc08c61a14dd1dc993b89a268b",
+    "t_entrega.csv": "500ee168994982d5d0ecd910249078bf79e8a0dbd4b5a3fd4edd4e352686d8fd",
+    "t_estoque.csv": "0800585b27d3927beb318432767d2b671408cb7fbd00c629e14cd869f6ce8a8a",
+    "t_fornecedor.csv": "a9aa4682fb46005d32285d2788c9bd7467012dec085366091f7fc1ecaf71eb66",
+    "t_historico_entrega.csv": "25e09cbd5a3aa0f111555af71d6645f89ff936d4a6cab031c93ab919427001a9",
+    "t_inventario.csv": "ea01a9c64b3ffdcccf843296ddbfc323e3bbcb8e32d4e8ae14190955d15aedf5",
+    "t_item_compra.csv": "ac337e6a61bc68ed6207d3396e4e7aa2b6d75423d3c14bdac793641d514bd049",
+    "t_item_devolucao.csv": "e6ba101cf01aab5c0316bd63715a5019fe9166fbfd54ab8529506b6055a7aa51",
+    "t_item_inventario.csv": "2b561d8c3bb0e4e79bf94a2e844ad199ba7d983d27779807630e0ce20bc750c2",
+    "t_item_pedido.csv": "d6640c084fd9ad75ddcad5a4de2e3119ef8e8d7870205e28ee38bab001cb1345",
+    "t_movimentaÇÃo_estoque.csv": "11e8ff888cc9c15d5536bc057da9215a1c7b2b2fd2851162defb216b30ab78ed",
+    "t_pagamento.csv": "86851311b4bf7673dd921abdced6eb3308fa14192181893ea76d0dbfdda51ab5",
+    "t_pedidos.csv": "f2c4f5103386145b20877457eb8819d3c15bf7c490bf25499863de9fde6eb94e",
+    "t_produto.csv": "30a3f45d55935696928fcbfe0108eec9026930bbd41d19f239dd2d813c871c29",
+    "t_transportadora.csv": "7fefae4385a7c93812a850cacac1cbd8f7119ce1f54404e0556fe1eff58f7a26"
+  },
+  "database_written": false
+}

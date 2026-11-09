@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local settings
+.env
+.env.*
+!.env.example
+.pgpass
+pgpass.conf
+pg_service.conf
+
+# Database archives and local logs
+*.dump
+*.backup
+*.bak
+*.zip
+*.log
+
+# Only the datasets used by the V1 demonstration are published
+/generated_data/*
+!/generated_data/full_20261008_1724/
+!/generated_data/full_20261008_1724_ascii/
