@@ -5,9 +5,10 @@ que inclui a [proposta PostgreSQL revisada](ddl_historico/propostas/trabalho_log
 (a fonte única do DDL; este documento não a altera). Os nomes físicos foram conferidos
 com essa fonte e com as colunas de [`demo/v1/02_load.sql`](../demo/v1/02_load.sql).
 
-**Situação.** Os diagramas foram escritos manualmente a partir do DDL. **A renderização
-Mermaid ainda não foi conferida**: nenhum renderizador foi executado ao preparar o
-documento. Se algum bloco não for exibido, as tabelas deste arquivo contêm a mesma
+**Situação.** Os diagramas foram escritos manualmente a partir do DDL.
+Os cinco diagramas foram conferidos visualmente pelo autor no GitHub.
+Essa conferência foi visual e manual, não um teste automatizado. Se algum bloco não
+for exibido em outro visualizador, as tabelas deste arquivo contêm a mesma
 informação em texto. O esquema descrito foi o criado na execução manual relatada em
 [`demo/v1/README.md`](../demo/v1/README.md); a contagem de 20 tabelas, 140 colunas,
 20 PKs, 21 FKs e 1 CHECK vem da leitura do DDL e dessa execução.

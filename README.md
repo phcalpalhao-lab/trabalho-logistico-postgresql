@@ -25,7 +25,7 @@ O esquema tem **20 tabelas, 140 colunas, 20 chaves primárias e 21 chaves estran
 - **SQL** para o esquema, a carga (`\copy`), as validações e a consulta de demonstração.
 - **Python 3.13** (biblioteca padrão) no gerador de dados sintéticos e no verificador offline dos CSVs.
 - **Oracle SQL Developer Data Modeler**, origem do DDL que foi adaptado ao PostgreSQL.
-- **Mermaid** (em Markdown) para os diagramas do modelo.
+- **Mermaid** (em Markdown) para os diagramas do modelo. Os cinco diagramas foram conferidos visualmente pelo autor no GitHub.
 
 ## Resultados observados
 
@@ -90,7 +90,7 @@ O roteiro completo, com ordem dos arquivos, comandos, contagens esperadas e crit
 
 ## Melhorias futuras
 
-Triggers ou `CHECK` para as regras de pagamento, entrega e estoque; vínculo entre item e remessa e entre reembolso e pagamento; histórico completo de transições; consultas de estoque e de transportadoras sobre o banco da V1; registro de logs da execução; renderização dos diagramas conferida. Nenhuma delas faz parte da versão 1.
+Triggers ou `CHECK` para as regras de pagamento, entrega e estoque; vínculo entre item e remessa e entre reembolso e pagamento; histórico completo de transições; consultas de estoque e de transportadoras sobre o banco da V1; registro de logs da execução. Nenhuma delas faz parte da versão 1.
 
 ## Delimitação histórica
 
